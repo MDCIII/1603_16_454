@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:454:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:454:0> ;
     skos:prefLabel "Northern"@eng-Latn ;
-    wdata:q7200235 "MW1" ;
+    wdata:Q7200235 "MW1" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -47,7 +47,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:454:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:454:0> ;
     skos:prefLabel "Central"@eng-Latn ;
-    wdata:q7200235 "MW2" ;
+    wdata:Q7200235 "MW2" ;
 .
 
 <urn:mdciii:1603:16:454:1:3>
@@ -58,6 +58,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:454:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:454:0> ;
     skos:prefLabel "Southern"@eng-Latn ;
-    wdata:q7200235 "MW3" ;
+    wdata:Q7200235 "MW3" ;
 .
 

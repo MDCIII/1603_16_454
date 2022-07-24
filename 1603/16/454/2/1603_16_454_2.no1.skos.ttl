@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:454()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:101" ;
     skos:prefLabel "Chitipa"@eng-Latn ;
-    wdata:q7200235 "MW101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -71,7 +69,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:102" ;
     skos:prefLabel "Karonga"@eng-Latn ;
-    wdata:q7200235 "MW102" ;
 .
 
 <urn:mdciii:1603:16:454:2:103>
@@ -80,7 +77,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:103" ;
     skos:prefLabel "Nkhata Bay"@eng-Latn ;
-    wdata:q7200235 "MW103" ;
 .
 
 <urn:mdciii:1603:16:454:2:104>
@@ -89,7 +85,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:104" ;
     skos:prefLabel "Rumphi"@eng-Latn ;
-    wdata:q7200235 "MW104" ;
 .
 
 <urn:mdciii:1603:16:454:2:105>
@@ -98,7 +93,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:105" ;
     skos:prefLabel "Mzimba"@eng-Latn ;
-    wdata:q7200235 "MW105" ;
 .
 
 <urn:mdciii:1603:16:454:2:106>
@@ -107,7 +101,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:106" ;
     skos:prefLabel "Likoma"@eng-Latn ;
-    wdata:q7200235 "MW106" ;
 .
 
 <urn:mdciii:1603:16:454:2:107>
@@ -116,7 +109,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:107" ;
     skos:prefLabel "Mzuzu City"@eng-Latn ;
-    wdata:q7200235 "MW107" ;
 .
 
 <urn:mdciii:1603:16:454:2:201>
@@ -125,7 +117,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:201" ;
     skos:prefLabel "Kasungu"@eng-Latn ;
-    wdata:q7200235 "MW201" ;
 .
 
 <urn:mdciii:1603:16:454:2:202>
@@ -134,7 +125,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:202" ;
     skos:prefLabel "Nkhotakota"@eng-Latn ;
-    wdata:q7200235 "MW202" ;
 .
 
 <urn:mdciii:1603:16:454:2:203>
@@ -143,7 +133,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:203" ;
     skos:prefLabel "Ntchisi"@eng-Latn ;
-    wdata:q7200235 "MW203" ;
 .
 
 <urn:mdciii:1603:16:454:2:204>
@@ -152,7 +141,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:204" ;
     skos:prefLabel "Dowa"@eng-Latn ;
-    wdata:q7200235 "MW204" ;
 .
 
 <urn:mdciii:1603:16:454:2:205>
@@ -161,7 +149,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:205" ;
     skos:prefLabel "Salima"@eng-Latn ;
-    wdata:q7200235 "MW205" ;
 .
 
 <urn:mdciii:1603:16:454:2:206>
@@ -170,7 +157,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:206" ;
     skos:prefLabel "Lilongwe"@eng-Latn ;
-    wdata:q7200235 "MW206" ;
 .
 
 <urn:mdciii:1603:16:454:2:207>
@@ -179,7 +165,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:207" ;
     skos:prefLabel "Mchinji"@eng-Latn ;
-    wdata:q7200235 "MW207" ;
 .
 
 <urn:mdciii:1603:16:454:2:208>
@@ -188,7 +173,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:208" ;
     skos:prefLabel "Dedza"@eng-Latn ;
-    wdata:q7200235 "MW208" ;
 .
 
 <urn:mdciii:1603:16:454:2:209>
@@ -197,7 +181,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:209" ;
     skos:prefLabel "Ntcheu"@eng-Latn ;
-    wdata:q7200235 "MW209" ;
 .
 
 <urn:mdciii:1603:16:454:2:210>
@@ -206,7 +189,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:210" ;
     skos:prefLabel "Lilongwe City"@eng-Latn ;
-    wdata:q7200235 "MW210" ;
 .
 
 <urn:mdciii:1603:16:454:2:301>
@@ -215,7 +197,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:301" ;
     skos:prefLabel "Mangochi"@eng-Latn ;
-    wdata:q7200235 "MW301" ;
 .
 
 <urn:mdciii:1603:16:454:2:302>
@@ -224,7 +205,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:302" ;
     skos:prefLabel "Machinga"@eng-Latn ;
-    wdata:q7200235 "MW302" ;
 .
 
 <urn:mdciii:1603:16:454:2:303>
@@ -233,7 +213,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:303" ;
     skos:prefLabel "Zomba"@eng-Latn ;
-    wdata:q7200235 "MW303" ;
 .
 
 <urn:mdciii:1603:16:454:2:304>
@@ -242,7 +221,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:304" ;
     skos:prefLabel "Chiradzulu"@eng-Latn ;
-    wdata:q7200235 "MW304" ;
 .
 
 <urn:mdciii:1603:16:454:2:305>
@@ -251,7 +229,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:305" ;
     skos:prefLabel "Blantyre"@eng-Latn ;
-    wdata:q7200235 "MW305" ;
 .
 
 <urn:mdciii:1603:16:454:2:306>
@@ -260,7 +237,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:306" ;
     skos:prefLabel "Mwanza"@eng-Latn ;
-    wdata:q7200235 "MW306" ;
 .
 
 <urn:mdciii:1603:16:454:2:307>
@@ -269,7 +245,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:307" ;
     skos:prefLabel "Thyolo"@eng-Latn ;
-    wdata:q7200235 "MW307" ;
 .
 
 <urn:mdciii:1603:16:454:2:308>
@@ -278,7 +253,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:308" ;
     skos:prefLabel "Mulanje"@eng-Latn ;
-    wdata:q7200235 "MW308" ;
 .
 
 <urn:mdciii:1603:16:454:2:309>
@@ -287,7 +261,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:309" ;
     skos:prefLabel "Phalombe"@eng-Latn ;
-    wdata:q7200235 "MW309" ;
 .
 
 <urn:mdciii:1603:16:454:2:310>
@@ -296,7 +269,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:310" ;
     skos:prefLabel "Chikwawa"@eng-Latn ;
-    wdata:q7200235 "MW310" ;
 .
 
 <urn:mdciii:1603:16:454:2:311>
@@ -305,7 +277,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:311" ;
     skos:prefLabel "Nsanje"@eng-Latn ;
-    wdata:q7200235 "MW311" ;
 .
 
 <urn:mdciii:1603:16:454:2:312>
@@ -314,7 +285,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:312" ;
     skos:prefLabel "Balaka"@eng-Latn ;
-    wdata:q7200235 "MW312" ;
 .
 
 <urn:mdciii:1603:16:454:2:313>
@@ -323,7 +293,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:313" ;
     skos:prefLabel "Neno"@eng-Latn ;
-    wdata:q7200235 "MW313" ;
 .
 
 <urn:mdciii:1603:16:454:2:314>
@@ -332,7 +301,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:314" ;
     skos:prefLabel "Zomba City"@eng-Latn ;
-    wdata:q7200235 "MW314" ;
 .
 
 <urn:mdciii:1603:16:454:2:315>
@@ -341,6 +309,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:2:315" ;
     skos:prefLabel "Blantyre City"@eng-Latn ;
-    wdata:q7200235 "MW315" ;
 .
 

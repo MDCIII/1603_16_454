@@ -22,7 +22,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10101" ;
     skos:prefLabel "TA Mwabulambya"@eng-Latn ;
-    wdata:q7200235 "MW10101" ;
+    wdata:Q7200235 "MW10101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -410,7 +410,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10102" ;
     skos:prefLabel "TA Mwenemisuku"@eng-Latn ;
-    wdata:q7200235 "MW10102" ;
+    wdata:Q7200235 "MW10102" ;
 .
 
 <urn:mdciii:1603:16:454:3:10103>
@@ -420,7 +420,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10103" ;
     skos:prefLabel "TA Mwenewenya"@eng-Latn ;
-    wdata:q7200235 "MW10103" ;
+    wdata:Q7200235 "MW10103" ;
 .
 
 <urn:mdciii:1603:16:454:3:10104>
@@ -430,7 +430,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10104" ;
     skos:prefLabel "TA Nthalire"@eng-Latn ;
-    wdata:q7200235 "MW10104" ;
+    wdata:Q7200235 "MW10104" ;
 .
 
 <urn:mdciii:1603:16:454:3:10105>
@@ -440,7 +440,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10105" ;
     skos:prefLabel "TA Kameme"@eng-Latn ;
-    wdata:q7200235 "MW10105" ;
+    wdata:Q7200235 "MW10105" ;
 .
 
 <urn:mdciii:1603:16:454:3:10106>
@@ -450,7 +450,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10106" ;
     skos:prefLabel "Nyika National Park - Chitipa"@eng-Latn ;
-    wdata:q7200235 "MW10106" ;
+    wdata:Q7200235 "MW10106" ;
 .
 
 <urn:mdciii:1603:16:454:3:10120>
@@ -460,7 +460,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10120" ;
     skos:prefLabel "Chitipa Boma"@eng-Latn ;
-    wdata:q7200235 "MW10120" ;
+    wdata:Q7200235 "MW10120" ;
 .
 
 <urn:mdciii:1603:16:454:3:10201>
@@ -470,7 +470,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10201" ;
     skos:prefLabel "TA Kilupula"@eng-Latn ;
-    wdata:q7200235 "MW10201" ;
+    wdata:Q7200235 "MW10201" ;
 .
 
 <urn:mdciii:1603:16:454:3:10202>
@@ -482,7 +482,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mwakaboko"@eng-Latn ,
         "STA Mwakaboko"@eng-Latn ;
-    wdata:q7200235 "MW10202" ;
+    wdata:Q7200235 "MW10202" ;
 .
 
 <urn:mdciii:1603:16:454:3:10203>
@@ -492,7 +492,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10203" ;
     skos:prefLabel "TA Kyungu"@eng-Latn ;
-    wdata:q7200235 "MW10203" ;
+    wdata:Q7200235 "MW10203" ;
 .
 
 <urn:mdciii:1603:16:454:3:10204>
@@ -502,7 +502,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10204" ;
     skos:prefLabel "TA Wasambo"@eng-Latn ;
-    wdata:q7200235 "MW10204" ;
+    wdata:Q7200235 "MW10204" ;
 .
 
 <urn:mdciii:1603:16:454:3:10205>
@@ -514,7 +514,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mwirang'ombe"@eng-Latn ,
         "STA Mwirang'ombe"@eng-Latn ;
-    wdata:q7200235 "MW10205" ;
+    wdata:Q7200235 "MW10205" ;
 .
 
 <urn:mdciii:1603:16:454:3:10206>
@@ -524,7 +524,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10206" ;
     skos:prefLabel "Nyika National Park - Karonga"@eng-Latn ;
-    wdata:q7200235 "MW10206" ;
+    wdata:Q7200235 "MW10206" ;
 .
 
 <urn:mdciii:1603:16:454:3:10220>
@@ -534,7 +534,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10220" ;
     skos:prefLabel "Karonga Town"@eng-Latn ;
-    wdata:q7200235 "MW10220" ;
+    wdata:Q7200235 "MW10220" ;
 .
 
 <urn:mdciii:1603:16:454:3:10301>
@@ -544,7 +544,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10301" ;
     skos:prefLabel "TA Kabunduli"@eng-Latn ;
-    wdata:q7200235 "MW10301" ;
+    wdata:Q7200235 "MW10301" ;
 .
 
 <urn:mdciii:1603:16:454:3:10302>
@@ -554,7 +554,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10302" ;
     skos:prefLabel "TA Fukamapiri"@eng-Latn ;
-    wdata:q7200235 "MW10302" ;
+    wdata:Q7200235 "MW10302" ;
 .
 
 <urn:mdciii:1603:16:454:3:10303>
@@ -564,7 +564,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10303" ;
     skos:prefLabel "TA Malenga Mzoma"@eng-Latn ;
-    wdata:q7200235 "MW10303" ;
+    wdata:Q7200235 "MW10303" ;
 .
 
 <urn:mdciii:1603:16:454:3:10304>
@@ -576,7 +576,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Malanda"@eng-Latn ,
         "STA Malanda"@eng-Latn ;
-    wdata:q7200235 "MW10304" ;
+    wdata:Q7200235 "MW10304" ;
 .
 
 <urn:mdciii:1603:16:454:3:10305>
@@ -588,7 +588,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Zilakoma"@eng-Latn ,
         "STA Zilakoma"@eng-Latn ;
-    wdata:q7200235 "MW10305" ;
+    wdata:Q7200235 "MW10305" ;
 .
 
 <urn:mdciii:1603:16:454:3:10306>
@@ -598,7 +598,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10306" ;
     skos:prefLabel "TA Mankhambira"@eng-Latn ;
-    wdata:q7200235 "MW10306" ;
+    wdata:Q7200235 "MW10306" ;
 .
 
 <urn:mdciii:1603:16:454:3:10307>
@@ -610,7 +610,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Fukamalaza"@eng-Latn ,
         "STA Fukamalaza"@eng-Latn ;
-    wdata:q7200235 "MW10307" ;
+    wdata:Q7200235 "MW10307" ;
 .
 
 <urn:mdciii:1603:16:454:3:10308>
@@ -622,7 +622,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mkumbira"@eng-Latn ,
         "STA Mkumbira"@eng-Latn ;
-    wdata:q7200235 "MW10308" ;
+    wdata:Q7200235 "MW10308" ;
 .
 
 <urn:mdciii:1603:16:454:3:10309>
@@ -632,7 +632,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10309" ;
     skos:prefLabel "TA Musisya"@eng-Latn ;
-    wdata:q7200235 "MW10309" ;
+    wdata:Q7200235 "MW10309" ;
 .
 
 <urn:mdciii:1603:16:454:3:10310>
@@ -644,7 +644,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Nyaluwanga"@eng-Latn ,
         "STA Nyaluwanga"@eng-Latn ;
-    wdata:q7200235 "MW10310" ;
+    wdata:Q7200235 "MW10310" ;
 .
 
 <urn:mdciii:1603:16:454:3:10311>
@@ -656,7 +656,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mkondowe"@eng-Latn ,
         "STA Mkondowe"@eng-Latn ;
-    wdata:q7200235 "MW10311" ;
+    wdata:Q7200235 "MW10311" ;
 .
 
 <urn:mdciii:1603:16:454:3:10312>
@@ -666,7 +666,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10312" ;
     skos:prefLabel "TA Timbiri"@eng-Latn ;
-    wdata:q7200235 "MW10312" ;
+    wdata:Q7200235 "MW10312" ;
 .
 
 <urn:mdciii:1603:16:454:3:10313>
@@ -676,7 +676,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10313" ;
     skos:prefLabel "TA Boghoyo"@eng-Latn ;
-    wdata:q7200235 "MW10313" ;
+    wdata:Q7200235 "MW10313" ;
 .
 
 <urn:mdciii:1603:16:454:3:10320>
@@ -686,7 +686,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10320" ;
     skos:prefLabel "Nkhata Bay Boma"@eng-Latn ;
-    wdata:q7200235 "MW10320" ;
+    wdata:Q7200235 "MW10320" ;
 .
 
 <urn:mdciii:1603:16:454:3:10401>
@@ -696,7 +696,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10401" ;
     skos:prefLabel "TA Chikulamayembe"@eng-Latn ;
-    wdata:q7200235 "MW10401" ;
+    wdata:Q7200235 "MW10401" ;
 .
 
 <urn:mdciii:1603:16:454:3:10402>
@@ -706,7 +706,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10402" ;
     skos:prefLabel "TA Mwamlowe"@eng-Latn ;
-    wdata:q7200235 "MW10402" ;
+    wdata:Q7200235 "MW10402" ;
 .
 
 <urn:mdciii:1603:16:454:3:10403>
@@ -718,7 +718,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "S/C Mwahenga"@eng-Latn ,
         "SC Mwahenga"@eng-Latn ;
-    wdata:q7200235 "MW10403" ;
+    wdata:Q7200235 "MW10403" ;
 .
 
 <urn:mdciii:1603:16:454:3:10404>
@@ -730,7 +730,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "S/C Mwalweni"@eng-Latn ,
         "SC Mwalweni"@eng-Latn ;
-    wdata:q7200235 "MW10404" ;
+    wdata:Q7200235 "MW10404" ;
 .
 
 <urn:mdciii:1603:16:454:3:10405>
@@ -742,7 +742,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "S/C Kachulu"@eng-Latn ,
         "SC Kachulu"@eng-Latn ;
-    wdata:q7200235 "MW10405" ;
+    wdata:Q7200235 "MW10405" ;
 .
 
 <urn:mdciii:1603:16:454:3:10406>
@@ -754,7 +754,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "S/C Chapinduka"@eng-Latn ,
         "SC Chapinduka"@eng-Latn ;
-    wdata:q7200235 "MW10406" ;
+    wdata:Q7200235 "MW10406" ;
 .
 
 <urn:mdciii:1603:16:454:3:10407>
@@ -766,7 +766,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "S/C Mwankhunikira"@eng-Latn ,
         "SC Mwankhunikira"@eng-Latn ;
-    wdata:q7200235 "MW10407" ;
+    wdata:Q7200235 "MW10407" ;
 .
 
 <urn:mdciii:1603:16:454:3:10408>
@@ -776,7 +776,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10408" ;
     skos:prefLabel "TA Katumbi"@eng-Latn ;
-    wdata:q7200235 "MW10408" ;
+    wdata:Q7200235 "MW10408" ;
 .
 
 <urn:mdciii:1603:16:454:3:10409>
@@ -788,7 +788,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "S/C Zolokere"@eng-Latn ,
         "TA Zolokere"@eng-Latn ;
-    wdata:q7200235 "MW10409" ;
+    wdata:Q7200235 "MW10409" ;
 .
 
 <urn:mdciii:1603:16:454:3:10410>
@@ -798,7 +798,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10410" ;
     skos:prefLabel "Nyika National Park - Rumphi"@eng-Latn ;
-    wdata:q7200235 "MW10410" ;
+    wdata:Q7200235 "MW10410" ;
 .
 
 <urn:mdciii:1603:16:454:3:10411>
@@ -810,7 +810,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vwaza Game Reserve"@eng-Latn ,
         "Vwaza Marsh Reserve - Rumphi"@eng-Latn ;
-    wdata:q7200235 "MW10411" ;
+    wdata:Q7200235 "MW10411" ;
 .
 
 <urn:mdciii:1603:16:454:3:10420>
@@ -820,7 +820,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10420" ;
     skos:prefLabel "Rumphi Boma"@eng-Latn ;
-    wdata:q7200235 "MW10420" ;
+    wdata:Q7200235 "MW10420" ;
 .
 
 <urn:mdciii:1603:16:454:3:10501>
@@ -830,7 +830,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10501" ;
     skos:prefLabel "TA M'Mbelwa"@eng-Latn ;
-    wdata:q7200235 "MW10501" ;
+    wdata:Q7200235 "MW10501" ;
 .
 
 <urn:mdciii:1603:16:454:3:10502>
@@ -840,7 +840,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10502" ;
     skos:prefLabel "TA Mtwalo"@eng-Latn ;
-    wdata:q7200235 "MW10502" ;
+    wdata:Q7200235 "MW10502" ;
 .
 
 <urn:mdciii:1603:16:454:3:10503>
@@ -852,7 +852,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "S/C Kampingo Sibande"@eng-Latn ,
         "SC Kampingo Sibande"@eng-Latn ;
-    wdata:q7200235 "MW10503" ;
+    wdata:Q7200235 "MW10503" ;
 .
 
 <urn:mdciii:1603:16:454:3:10504>
@@ -862,7 +862,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10504" ;
     skos:prefLabel "SC Jaravikuba Munthali"@eng-Latn ;
-    wdata:q7200235 "MW10504" ;
+    wdata:Q7200235 "MW10504" ;
 .
 
 <urn:mdciii:1603:16:454:3:10505>
@@ -872,7 +872,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10505" ;
     skos:prefLabel "TA Chindi"@eng-Latn ;
-    wdata:q7200235 "MW10505" ;
+    wdata:Q7200235 "MW10505" ;
 .
 
 <urn:mdciii:1603:16:454:3:10506>
@@ -882,7 +882,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10506" ;
     skos:prefLabel "TA Mzikubola"@eng-Latn ;
-    wdata:q7200235 "MW10506" ;
+    wdata:Q7200235 "MW10506" ;
 .
 
 <urn:mdciii:1603:16:454:3:10507>
@@ -892,7 +892,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10507" ;
     skos:prefLabel "TA Mabulabo"@eng-Latn ;
-    wdata:q7200235 "MW10507" ;
+    wdata:Q7200235 "MW10507" ;
 .
 
 <urn:mdciii:1603:16:454:3:10508>
@@ -902,7 +902,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10508" ;
     skos:prefLabel "SC Khosolo Gwaza Jere"@eng-Latn ;
-    wdata:q7200235 "MW10508" ;
+    wdata:Q7200235 "MW10508" ;
 .
 
 <urn:mdciii:1603:16:454:3:10509>
@@ -912,7 +912,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10509" ;
     skos:prefLabel "TA Mpherembe"@eng-Latn ;
-    wdata:q7200235 "MW10509" ;
+    wdata:Q7200235 "MW10509" ;
 .
 
 <urn:mdciii:1603:16:454:3:10510>
@@ -922,7 +922,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10510" ;
     skos:prefLabel "TA Mzukuzuku"@eng-Latn ;
-    wdata:q7200235 "MW10510" ;
+    wdata:Q7200235 "MW10510" ;
 .
 
 <urn:mdciii:1603:16:454:3:10511>
@@ -934,7 +934,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Vwaza G.Reserve"@eng-Latn ,
         "Vwaza Marsh Reserve - Mzimba"@eng-Latn ;
-    wdata:q7200235 "MW10511" ;
+    wdata:Q7200235 "MW10511" ;
 .
 
 <urn:mdciii:1603:16:454:3:10520>
@@ -944,7 +944,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10520" ;
     skos:prefLabel "Mzimba Boma"@eng-Latn ;
-    wdata:q7200235 "MW10520" ;
+    wdata:Q7200235 "MW10520" ;
 .
 
 <urn:mdciii:1603:16:454:3:10601>
@@ -954,7 +954,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10601" ;
     skos:prefLabel "TA Mkumpha"@eng-Latn ;
-    wdata:q7200235 "MW10601" ;
+    wdata:Q7200235 "MW10601" ;
 .
 
 <urn:mdciii:1603:16:454:3:10620>
@@ -964,7 +964,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10620" ;
     skos:prefLabel "Likoma Boma"@eng-Latn ;
-    wdata:q7200235 "MW10620" ;
+    wdata:Q7200235 "MW10620" ;
 .
 
 <urn:mdciii:1603:16:454:3:10731>
@@ -974,7 +974,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10731" ;
     skos:prefLabel "Nkhorongo Ward"@eng-Latn ;
-    wdata:q7200235 "MW10731" ;
+    wdata:Q7200235 "MW10731" ;
 .
 
 <urn:mdciii:1603:16:454:3:10732>
@@ -984,7 +984,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10732" ;
     skos:prefLabel "Lupaso Ward"@eng-Latn ;
-    wdata:q7200235 "MW10732" ;
+    wdata:Q7200235 "MW10732" ;
 .
 
 <urn:mdciii:1603:16:454:3:10733>
@@ -994,7 +994,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10733" ;
     skos:prefLabel "Zolozolo Ward"@eng-Latn ;
-    wdata:q7200235 "MW10733" ;
+    wdata:Q7200235 "MW10733" ;
 .
 
 <urn:mdciii:1603:16:454:3:10734>
@@ -1004,7 +1004,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10734" ;
     skos:prefLabel "Chiputula Ward"@eng-Latn ;
-    wdata:q7200235 "MW10734" ;
+    wdata:Q7200235 "MW10734" ;
 .
 
 <urn:mdciii:1603:16:454:3:10735>
@@ -1014,7 +1014,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10735" ;
     skos:prefLabel "Chibanja Ward"@eng-Latn ;
-    wdata:q7200235 "MW10735" ;
+    wdata:Q7200235 "MW10735" ;
 .
 
 <urn:mdciii:1603:16:454:3:10736>
@@ -1024,7 +1024,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10736" ;
     skos:prefLabel "Mchengautuwa Ward"@eng-Latn ;
-    wdata:q7200235 "MW10736" ;
+    wdata:Q7200235 "MW10736" ;
 .
 
 <urn:mdciii:1603:16:454:3:10737>
@@ -1034,7 +1034,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10737" ;
     skos:prefLabel "Katoto Ward"@eng-Latn ;
-    wdata:q7200235 "MW10737" ;
+    wdata:Q7200235 "MW10737" ;
 .
 
 <urn:mdciii:1603:16:454:3:10738>
@@ -1044,7 +1044,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10738" ;
     skos:prefLabel "Jombo Ward"@eng-Latn ;
-    wdata:q7200235 "MW10738" ;
+    wdata:Q7200235 "MW10738" ;
 .
 
 <urn:mdciii:1603:16:454:3:10739>
@@ -1056,7 +1056,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Muzilawayingwe Ward"@eng-Latn ,
         "Mzilawayingwe ward"@eng-Latn ;
-    wdata:q7200235 "MW10739" ;
+    wdata:Q7200235 "MW10739" ;
 .
 
 <urn:mdciii:1603:16:454:3:10740>
@@ -1066,7 +1066,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10740" ;
     skos:prefLabel "Chasefu Ward"@eng-Latn ;
-    wdata:q7200235 "MW10740" ;
+    wdata:Q7200235 "MW10740" ;
 .
 
 <urn:mdciii:1603:16:454:3:10741>
@@ -1076,7 +1076,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10741" ;
     skos:prefLabel "Katawa Ward"@eng-Latn ;
-    wdata:q7200235 "MW10741" ;
+    wdata:Q7200235 "MW10741" ;
 .
 
 <urn:mdciii:1603:16:454:3:10742>
@@ -1086,7 +1086,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10742" ;
     skos:prefLabel "Masasa Ward"@eng-Latn ;
-    wdata:q7200235 "MW10742" ;
+    wdata:Q7200235 "MW10742" ;
 .
 
 <urn:mdciii:1603:16:454:3:10743>
@@ -1096,7 +1096,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10743" ;
     skos:prefLabel "Kaning'ina Ward"@eng-Latn ;
-    wdata:q7200235 "MW10743" ;
+    wdata:Q7200235 "MW10743" ;
 .
 
 <urn:mdciii:1603:16:454:3:10744>
@@ -1106,7 +1106,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10744" ;
     skos:prefLabel "Viphya Ward"@eng-Latn ;
-    wdata:q7200235 "MW10744" ;
+    wdata:Q7200235 "MW10744" ;
 .
 
 <urn:mdciii:1603:16:454:3:10745>
@@ -1116,7 +1116,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10745" ;
     skos:prefLabel "Msongwe Ward"@eng-Latn ;
-    wdata:q7200235 "MW10745" ;
+    wdata:Q7200235 "MW10745" ;
 .
 
 <urn:mdciii:1603:16:454:3:10746>
@@ -1126,7 +1126,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:10746" ;
     skos:prefLabel "New Airport Site Ward"@eng-Latn ;
-    wdata:q7200235 "MW10746" ;
+    wdata:Q7200235 "MW10746" ;
 .
 
 <urn:mdciii:1603:16:454:3:20101>
@@ -1136,7 +1136,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20101" ;
     skos:prefLabel "TA Kaluluma"@eng-Latn ;
-    wdata:q7200235 "MW20101" ;
+    wdata:Q7200235 "MW20101" ;
 .
 
 <urn:mdciii:1603:16:454:3:20102>
@@ -1148,7 +1148,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Simlemba"@eng-Latn ,
         "STA Simlemba"@eng-Latn ;
-    wdata:q7200235 "MW20102" ;
+    wdata:Q7200235 "MW20102" ;
 .
 
 <urn:mdciii:1603:16:454:3:20103>
@@ -1160,7 +1160,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC M'nyanja"@eng-Latn ,
         "STA M'nyanja"@eng-Latn ;
-    wdata:q7200235 "MW20103" ;
+    wdata:Q7200235 "MW20103" ;
 .
 
 <urn:mdciii:1603:16:454:3:20104>
@@ -1172,7 +1172,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Chisikwa"@eng-Latn ,
         "STA Chisikwa"@eng-Latn ;
-    wdata:q7200235 "MW20104" ;
+    wdata:Q7200235 "MW20104" ;
 .
 
 <urn:mdciii:1603:16:454:3:20105>
@@ -1182,7 +1182,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20105" ;
     skos:prefLabel "TA Kaomba"@eng-Latn ;
-    wdata:q7200235 "MW20105" ;
+    wdata:Q7200235 "MW20105" ;
 .
 
 <urn:mdciii:1603:16:454:3:20106>
@@ -1194,7 +1194,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Lukwa"@eng-Latn ,
         "TA Lukwa"@eng-Latn ;
-    wdata:q7200235 "MW20106" ;
+    wdata:Q7200235 "MW20106" ;
 .
 
 <urn:mdciii:1603:16:454:3:20107>
@@ -1206,7 +1206,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Kawamba"@eng-Latn ,
         "STA Kawamba"@eng-Latn ;
-    wdata:q7200235 "MW20107" ;
+    wdata:Q7200235 "MW20107" ;
 .
 
 <urn:mdciii:1603:16:454:3:20108>
@@ -1218,7 +1218,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Njombwa"@eng-Latn ,
         "STA Njombwa"@eng-Latn ;
-    wdata:q7200235 "MW20108" ;
+    wdata:Q7200235 "MW20108" ;
 .
 
 <urn:mdciii:1603:16:454:3:20109>
@@ -1230,7 +1230,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Chilowamatambe"@eng-Latn ,
         "STA Chilowamatambe"@eng-Latn ;
-    wdata:q7200235 "MW20109" ;
+    wdata:Q7200235 "MW20109" ;
 .
 
 <urn:mdciii:1603:16:454:3:20110>
@@ -1240,7 +1240,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20110" ;
     skos:prefLabel "TA Chulu"@eng-Latn ;
-    wdata:q7200235 "MW20110" ;
+    wdata:Q7200235 "MW20110" ;
 .
 
 <urn:mdciii:1603:16:454:3:20111>
@@ -1250,7 +1250,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20111" ;
     skos:prefLabel "TA Santhe"@eng-Latn ;
-    wdata:q7200235 "MW20111" ;
+    wdata:Q7200235 "MW20111" ;
 .
 
 <urn:mdciii:1603:16:454:3:20112>
@@ -1260,7 +1260,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20112" ;
     skos:prefLabel "TA Wimbe"@eng-Latn ;
-    wdata:q7200235 "MW20112" ;
+    wdata:Q7200235 "MW20112" ;
 .
 
 <urn:mdciii:1603:16:454:3:20113>
@@ -1270,7 +1270,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20113" ;
     skos:prefLabel "TA Kapelula"@eng-Latn ;
-    wdata:q7200235 "MW20113" ;
+    wdata:Q7200235 "MW20113" ;
 .
 
 <urn:mdciii:1603:16:454:3:20114>
@@ -1282,7 +1282,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kasungu National Park"@eng-Latn ,
         "TA Mwase"@eng-Latn ;
-    wdata:q7200235 "MW20114" ;
+    wdata:Q7200235 "MW20114" ;
 .
 
 <urn:mdciii:1603:16:454:3:20115>
@@ -1294,7 +1294,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kasungu National Park"@eng-Latn ,
         "TA Mwase"@eng-Latn ;
-    wdata:q7200235 "MW20115" ;
+    wdata:Q7200235 "MW20115" ;
 .
 
 <urn:mdciii:1603:16:454:3:20120>
@@ -1306,7 +1306,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Kasungu Boma"@eng-Latn ,
         "Kasungu Township"@eng-Latn ;
-    wdata:q7200235 "MW20120" ;
+    wdata:Q7200235 "MW20120" ;
 .
 
 <urn:mdciii:1603:16:454:3:20201>
@@ -1316,7 +1316,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20201" ;
     skos:prefLabel "TA Kanyenda"@eng-Latn ;
-    wdata:q7200235 "MW20201" ;
+    wdata:Q7200235 "MW20201" ;
 .
 
 <urn:mdciii:1603:16:454:3:20202>
@@ -1328,7 +1328,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Kafuzila"@eng-Latn ,
         "STA Kafuzila"@eng-Latn ;
-    wdata:q7200235 "MW20202" ;
+    wdata:Q7200235 "MW20202" ;
 .
 
 <urn:mdciii:1603:16:454:3:20203>
@@ -1338,7 +1338,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20203" ;
     skos:prefLabel "TA Malenga Chanzi"@eng-Latn ;
-    wdata:q7200235 "MW20203" ;
+    wdata:Q7200235 "MW20203" ;
 .
 
 <urn:mdciii:1603:16:454:3:20204>
@@ -1350,7 +1350,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mphonde"@eng-Latn ,
         "STA Mphonde"@eng-Latn ;
-    wdata:q7200235 "MW20204" ;
+    wdata:Q7200235 "MW20204" ;
 .
 
 <urn:mdciii:1603:16:454:3:20205>
@@ -1360,7 +1360,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20205" ;
     skos:prefLabel "TA Mwadzama"@eng-Latn ;
-    wdata:q7200235 "MW20205" ;
+    wdata:Q7200235 "MW20205" ;
 .
 
 <urn:mdciii:1603:16:454:3:20206>
@@ -1372,7 +1372,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mwansambo"@eng-Latn ,
         "TA Mwansambo"@eng-Latn ;
-    wdata:q7200235 "MW20206" ;
+    wdata:Q7200235 "MW20206" ;
 .
 
 <urn:mdciii:1603:16:454:3:20207>
@@ -1382,7 +1382,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20207" ;
     skos:prefLabel "Nkhotakota Game Reserve"@eng-Latn ;
-    wdata:q7200235 "MW20207" ;
+    wdata:Q7200235 "MW20207" ;
 .
 
 <urn:mdciii:1603:16:454:3:20220>
@@ -1392,7 +1392,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20220" ;
     skos:prefLabel "Nkhotakota Boma"@eng-Latn ;
-    wdata:q7200235 "MW20220" ;
+    wdata:Q7200235 "MW20220" ;
 .
 
 <urn:mdciii:1603:16:454:3:20301>
@@ -1402,7 +1402,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20301" ;
     skos:prefLabel "TA Kasakula"@eng-Latn ;
-    wdata:q7200235 "MW20301" ;
+    wdata:Q7200235 "MW20301" ;
 .
 
 <urn:mdciii:1603:16:454:3:20302>
@@ -1412,7 +1412,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20302" ;
     skos:prefLabel "TA Chikho"@eng-Latn ;
-    wdata:q7200235 "MW20302" ;
+    wdata:Q7200235 "MW20302" ;
 .
 
 <urn:mdciii:1603:16:454:3:20303>
@@ -1424,7 +1424,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Nthondo"@eng-Latn ,
         "STA Nthondo"@eng-Latn ;
-    wdata:q7200235 "MW20303" ;
+    wdata:Q7200235 "MW20303" ;
 .
 
 <urn:mdciii:1603:16:454:3:20304>
@@ -1434,7 +1434,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20304" ;
     skos:prefLabel "TA Kalumo"@eng-Latn ;
-    wdata:q7200235 "MW20304" ;
+    wdata:Q7200235 "MW20304" ;
 .
 
 <urn:mdciii:1603:16:454:3:20305>
@@ -1446,7 +1446,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Chilooko"@eng-Latn ,
         "STA Chilooko"@eng-Latn ;
-    wdata:q7200235 "MW20305" ;
+    wdata:Q7200235 "MW20305" ;
 .
 
 <urn:mdciii:1603:16:454:3:20320>
@@ -1456,7 +1456,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20320" ;
     skos:prefLabel "Ntchisi Boma"@eng-Latn ;
-    wdata:q7200235 "MW20320" ;
+    wdata:Q7200235 "MW20320" ;
 .
 
 <urn:mdciii:1603:16:454:3:20401>
@@ -1466,7 +1466,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20401" ;
     skos:prefLabel "TA Dzoole"@eng-Latn ;
-    wdata:q7200235 "MW20401" ;
+    wdata:Q7200235 "MW20401" ;
 .
 
 <urn:mdciii:1603:16:454:3:20402>
@@ -1478,7 +1478,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Chakhaza"@eng-Latn ,
         "STA Chakhaza"@eng-Latn ;
-    wdata:q7200235 "MW20402" ;
+    wdata:Q7200235 "MW20402" ;
 .
 
 <urn:mdciii:1603:16:454:3:20403>
@@ -1490,7 +1490,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Kayembe"@eng-Latn ,
         "TA Kayembe"@eng-Latn ;
-    wdata:q7200235 "MW20403" ;
+    wdata:Q7200235 "MW20403" ;
 .
 
 <urn:mdciii:1603:16:454:3:20404>
@@ -1500,7 +1500,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20404" ;
     skos:prefLabel "TA Chiwere"@eng-Latn ;
-    wdata:q7200235 "MW20404" ;
+    wdata:Q7200235 "MW20404" ;
 .
 
 <urn:mdciii:1603:16:454:3:20405>
@@ -1512,7 +1512,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mkukula"@eng-Latn ,
         "STA Mkukula"@eng-Latn ;
-    wdata:q7200235 "MW20405" ;
+    wdata:Q7200235 "MW20405" ;
 .
 
 <urn:mdciii:1603:16:454:3:20406>
@@ -1522,7 +1522,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20406" ;
     skos:prefLabel "TA Msakambewa"@eng-Latn ;
-    wdata:q7200235 "MW20406" ;
+    wdata:Q7200235 "MW20406" ;
 .
 
 <urn:mdciii:1603:16:454:3:20407>
@@ -1534,7 +1534,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mponela"@eng-Latn ,
         "STA Mponela"@eng-Latn ;
-    wdata:q7200235 "MW20407" ;
+    wdata:Q7200235 "MW20407" ;
 .
 
 <urn:mdciii:1603:16:454:3:20420>
@@ -1544,7 +1544,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20420" ;
     skos:prefLabel "Dowa Boma"@eng-Latn ;
-    wdata:q7200235 "MW20420" ;
+    wdata:Q7200235 "MW20420" ;
 .
 
 <urn:mdciii:1603:16:454:3:20501>
@@ -1554,7 +1554,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20501" ;
     skos:prefLabel "TA Maganga"@eng-Latn ;
-    wdata:q7200235 "MW20501" ;
+    wdata:Q7200235 "MW20501" ;
 .
 
 <urn:mdciii:1603:16:454:3:20502>
@@ -1564,7 +1564,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20502" ;
     skos:prefLabel "TA Karonga"@eng-Latn ;
-    wdata:q7200235 "MW20502" ;
+    wdata:Q7200235 "MW20502" ;
 .
 
 <urn:mdciii:1603:16:454:3:20503>
@@ -1574,7 +1574,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20503" ;
     skos:prefLabel "TA Pemba"@eng-Latn ;
-    wdata:q7200235 "MW20503" ;
+    wdata:Q7200235 "MW20503" ;
 .
 
 <urn:mdciii:1603:16:454:3:20504>
@@ -1586,7 +1586,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Kambwiri"@eng-Latn ,
         "STA Kambwiri"@eng-Latn ;
-    wdata:q7200235 "MW20504" ;
+    wdata:Q7200235 "MW20504" ;
 .
 
 <urn:mdciii:1603:16:454:3:20505>
@@ -1596,7 +1596,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20505" ;
     skos:prefLabel "TA Ndindi"@eng-Latn ;
-    wdata:q7200235 "MW20505" ;
+    wdata:Q7200235 "MW20505" ;
 .
 
 <urn:mdciii:1603:16:454:3:20506>
@@ -1608,7 +1608,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Kambalame"@eng-Latn ,
         "TA Kambalame"@eng-Latn ;
-    wdata:q7200235 "MW20506" ;
+    wdata:Q7200235 "MW20506" ;
 .
 
 <urn:mdciii:1603:16:454:3:20507>
@@ -1618,7 +1618,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20507" ;
     skos:prefLabel "TA Khombedza"@eng-Latn ;
-    wdata:q7200235 "MW20507" ;
+    wdata:Q7200235 "MW20507" ;
 .
 
 <urn:mdciii:1603:16:454:3:20508>
@@ -1630,7 +1630,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mwanza"@eng-Latn ,
         "STA Mwanza"@eng-Latn ;
-    wdata:q7200235 "MW20508" ;
+    wdata:Q7200235 "MW20508" ;
 .
 
 <urn:mdciii:1603:16:454:3:20509>
@@ -1642,7 +1642,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "STA Kuluunda"@eng-Latn ,
         "TA Kuluunda"@eng-Latn ;
-    wdata:q7200235 "MW20509" ;
+    wdata:Q7200235 "MW20509" ;
 .
 
 <urn:mdciii:1603:16:454:3:20510>
@@ -1654,7 +1654,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Msosa"@eng-Latn ,
         "STA Msosa"@eng-Latn ;
-    wdata:q7200235 "MW20510" ;
+    wdata:Q7200235 "MW20510" ;
 .
 
 <urn:mdciii:1603:16:454:3:20511>
@@ -1666,7 +1666,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lake Malawi National Park-Salima"@eng-Latn ,
         "Lake Malawi Natl. Park - Salima"@eng-Latn ;
-    wdata:q7200235 "MW20511" ;
+    wdata:Q7200235 "MW20511" ;
 .
 
 <urn:mdciii:1603:16:454:3:20520>
@@ -1678,7 +1678,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Salima Town"@eng-Latn ,
         "Salima Township"@eng-Latn ;
-    wdata:q7200235 "MW20520" ;
+    wdata:Q7200235 "MW20520" ;
 .
 
 <urn:mdciii:1603:16:454:3:20601>
@@ -1688,7 +1688,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20601" ;
     skos:prefLabel "TA Chadza"@eng-Latn ;
-    wdata:q7200235 "MW20601" ;
+    wdata:Q7200235 "MW20601" ;
 .
 
 <urn:mdciii:1603:16:454:3:20602>
@@ -1698,7 +1698,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20602" ;
     skos:prefLabel "TA Kalolo"@eng-Latn ;
-    wdata:q7200235 "MW20602" ;
+    wdata:Q7200235 "MW20602" ;
 .
 
 <urn:mdciii:1603:16:454:3:20603>
@@ -1708,7 +1708,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20603" ;
     skos:prefLabel "TA Chiseka"@eng-Latn ;
-    wdata:q7200235 "MW20603" ;
+    wdata:Q7200235 "MW20603" ;
 .
 
 <urn:mdciii:1603:16:454:3:20604>
@@ -1718,7 +1718,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20604" ;
     skos:prefLabel "TA Mazengera"@eng-Latn ;
-    wdata:q7200235 "MW20604" ;
+    wdata:Q7200235 "MW20604" ;
 .
 
 <urn:mdciii:1603:16:454:3:20605>
@@ -1730,7 +1730,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Chitekwele"@eng-Latn ,
         "STA Chitekwele"@eng-Latn ;
-    wdata:q7200235 "MW20605" ;
+    wdata:Q7200235 "MW20605" ;
 .
 
 <urn:mdciii:1603:16:454:3:20606>
@@ -1740,7 +1740,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20606" ;
     skos:prefLabel "TA Khongoni"@eng-Latn ;
-    wdata:q7200235 "MW20606" ;
+    wdata:Q7200235 "MW20606" ;
 .
 
 <urn:mdciii:1603:16:454:3:20607>
@@ -1750,7 +1750,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20607" ;
     skos:prefLabel "TA Chimutu"@eng-Latn ;
-    wdata:q7200235 "MW20607" ;
+    wdata:Q7200235 "MW20607" ;
 .
 
 <urn:mdciii:1603:16:454:3:20608>
@@ -1760,7 +1760,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20608" ;
     skos:prefLabel "TA Chitukula"@eng-Latn ;
-    wdata:q7200235 "MW20608" ;
+    wdata:Q7200235 "MW20608" ;
 .
 
 <urn:mdciii:1603:16:454:3:20609>
@@ -1772,7 +1772,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mtema"@eng-Latn ,
         "STA  Mtema"@eng-Latn ;
-    wdata:q7200235 "MW20609" ;
+    wdata:Q7200235 "MW20609" ;
 .
 
 <urn:mdciii:1603:16:454:3:20610>
@@ -1782,7 +1782,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20610" ;
     skos:prefLabel "TA Kalumbu"@eng-Latn ;
-    wdata:q7200235 "MW20610" ;
+    wdata:Q7200235 "MW20610" ;
 .
 
 <urn:mdciii:1603:16:454:3:20611>
@@ -1794,7 +1794,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Tsabango"@eng-Latn ,
         "STA Tsabango"@eng-Latn ;
-    wdata:q7200235 "MW20611" ;
+    wdata:Q7200235 "MW20611" ;
 .
 
 <urn:mdciii:1603:16:454:3:20612>
@@ -1804,7 +1804,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20612" ;
     skos:prefLabel "TA Kalumba"@eng-Latn ;
-    wdata:q7200235 "MW20612" ;
+    wdata:Q7200235 "MW20612" ;
 .
 
 <urn:mdciii:1603:16:454:3:20613>
@@ -1816,7 +1816,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Njewa"@eng-Latn ,
         "STA Njewa"@eng-Latn ;
-    wdata:q7200235 "MW20613" ;
+    wdata:Q7200235 "MW20613" ;
 .
 
 <urn:mdciii:1603:16:454:3:20614>
@@ -1826,7 +1826,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20614" ;
     skos:prefLabel "TA Malili"@eng-Latn ;
-    wdata:q7200235 "MW20614" ;
+    wdata:Q7200235 "MW20614" ;
 .
 
 <urn:mdciii:1603:16:454:3:20615>
@@ -1836,7 +1836,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20615" ;
     skos:prefLabel "TA Kabudula"@eng-Latn ;
-    wdata:q7200235 "MW20615" ;
+    wdata:Q7200235 "MW20615" ;
 .
 
 <urn:mdciii:1603:16:454:3:20701>
@@ -1846,7 +1846,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20701" ;
     skos:prefLabel "TA Mlonyeni"@eng-Latn ;
-    wdata:q7200235 "MW20701" ;
+    wdata:Q7200235 "MW20701" ;
 .
 
 <urn:mdciii:1603:16:454:3:20702>
@@ -1858,7 +1858,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mavwere"@eng-Latn ,
         "STA Mavwere"@eng-Latn ;
-    wdata:q7200235 "MW20702" ;
+    wdata:Q7200235 "MW20702" ;
 .
 
 <urn:mdciii:1603:16:454:3:20703>
@@ -1868,7 +1868,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20703" ;
     skos:prefLabel "TA Zulu"@eng-Latn ;
-    wdata:q7200235 "MW20703" ;
+    wdata:Q7200235 "MW20703" ;
 .
 
 <urn:mdciii:1603:16:454:3:20704>
@@ -1880,7 +1880,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mduwa"@eng-Latn ,
         "STA Mduwa"@eng-Latn ;
-    wdata:q7200235 "MW20704" ;
+    wdata:Q7200235 "MW20704" ;
 .
 
 <urn:mdciii:1603:16:454:3:20705>
@@ -1890,7 +1890,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20705" ;
     skos:prefLabel "TA Mkanda"@eng-Latn ;
-    wdata:q7200235 "MW20705" ;
+    wdata:Q7200235 "MW20705" ;
 .
 
 <urn:mdciii:1603:16:454:3:20706>
@@ -1902,7 +1902,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Dambe"@eng-Latn ,
         "STA  Dambe"@eng-Latn ;
-    wdata:q7200235 "MW20706" ;
+    wdata:Q7200235 "MW20706" ;
 .
 
 <urn:mdciii:1603:16:454:3:20720>
@@ -1912,7 +1912,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20720" ;
     skos:prefLabel "Mchinji Boma"@eng-Latn ;
-    wdata:q7200235 "MW20720" ;
+    wdata:Q7200235 "MW20720" ;
 .
 
 <urn:mdciii:1603:16:454:3:20801>
@@ -1922,7 +1922,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20801" ;
     skos:prefLabel "TA Pemba"@eng-Latn ;
-    wdata:q7200235 "MW20801" ;
+    wdata:Q7200235 "MW20801" ;
 .
 
 <urn:mdciii:1603:16:454:3:20802>
@@ -1934,7 +1934,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Chilikumwendo"@eng-Latn ,
         "STA Chilikumwendo"@eng-Latn ;
-    wdata:q7200235 "MW20802" ;
+    wdata:Q7200235 "MW20802" ;
 .
 
 <urn:mdciii:1603:16:454:3:20803>
@@ -1944,7 +1944,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20803" ;
     skos:prefLabel "TA Kaphuka"@eng-Latn ;
-    wdata:q7200235 "MW20803" ;
+    wdata:Q7200235 "MW20803" ;
 .
 
 <urn:mdciii:1603:16:454:3:20804>
@@ -1954,7 +1954,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20804" ;
     skos:prefLabel "TA Tambala"@eng-Latn ;
-    wdata:q7200235 "MW20804" ;
+    wdata:Q7200235 "MW20804" ;
 .
 
 <urn:mdciii:1603:16:454:3:20805>
@@ -1966,7 +1966,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "S/C Chauma"@eng-Latn ,
         "SC Chauma"@eng-Latn ;
-    wdata:q7200235 "MW20805" ;
+    wdata:Q7200235 "MW20805" ;
 .
 
 <urn:mdciii:1603:16:454:3:20806>
@@ -1976,7 +1976,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20806" ;
     skos:prefLabel "TA Kasumbu"@eng-Latn ;
-    wdata:q7200235 "MW20806" ;
+    wdata:Q7200235 "MW20806" ;
 .
 
 <urn:mdciii:1603:16:454:3:20807>
@@ -1986,7 +1986,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20807" ;
     skos:prefLabel "TA Kachindamoto"@eng-Latn ;
-    wdata:q7200235 "MW20807" ;
+    wdata:Q7200235 "MW20807" ;
 .
 
 <urn:mdciii:1603:16:454:3:20808>
@@ -1998,7 +1998,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "S/C Kamenya Gwaza"@eng-Latn ,
         "SC Kamenya Gwaza"@eng-Latn ;
-    wdata:q7200235 "MW20808" ;
+    wdata:Q7200235 "MW20808" ;
 .
 
 <urn:mdciii:1603:16:454:3:20820>
@@ -2008,7 +2008,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20820" ;
     skos:prefLabel "Dedza Boma"@eng-Latn ;
-    wdata:q7200235 "MW20820" ;
+    wdata:Q7200235 "MW20820" ;
 .
 
 <urn:mdciii:1603:16:454:3:20901>
@@ -2018,7 +2018,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20901" ;
     skos:prefLabel "TA Phambala"@eng-Latn ;
-    wdata:q7200235 "MW20901" ;
+    wdata:Q7200235 "MW20901" ;
 .
 
 <urn:mdciii:1603:16:454:3:20902>
@@ -2028,7 +2028,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20902" ;
     skos:prefLabel "TA Mpando"@eng-Latn ;
-    wdata:q7200235 "MW20902" ;
+    wdata:Q7200235 "MW20902" ;
 .
 
 <urn:mdciii:1603:16:454:3:20903>
@@ -2038,7 +2038,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20903" ;
     skos:prefLabel "TA Kwataine"@eng-Latn ;
-    wdata:q7200235 "MW20903" ;
+    wdata:Q7200235 "MW20903" ;
 .
 
 <urn:mdciii:1603:16:454:3:20904>
@@ -2050,7 +2050,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Makwangwala"@eng-Latn ,
         "STA Makwangwala"@eng-Latn ;
-    wdata:q7200235 "MW20904" ;
+    wdata:Q7200235 "MW20904" ;
 .
 
 <urn:mdciii:1603:16:454:3:20905>
@@ -2062,7 +2062,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Champiti"@eng-Latn ,
         "STA Champiti"@eng-Latn ;
-    wdata:q7200235 "MW20905" ;
+    wdata:Q7200235 "MW20905" ;
 .
 
 <urn:mdciii:1603:16:454:3:20906>
@@ -2072,7 +2072,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20906" ;
     skos:prefLabel "TA Njolomole"@eng-Latn ;
-    wdata:q7200235 "MW20906" ;
+    wdata:Q7200235 "MW20906" ;
 .
 
 <urn:mdciii:1603:16:454:3:20907>
@@ -2082,7 +2082,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20907" ;
     skos:prefLabel "TA Chakhumbira"@eng-Latn ;
-    wdata:q7200235 "MW20907" ;
+    wdata:Q7200235 "MW20907" ;
 .
 
 <urn:mdciii:1603:16:454:3:20908>
@@ -2094,7 +2094,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Goodson Ganya"@eng-Latn ,
         "STA Goodson Ganya"@eng-Latn ;
-    wdata:q7200235 "MW20908" ;
+    wdata:Q7200235 "MW20908" ;
 .
 
 <urn:mdciii:1603:16:454:3:20909>
@@ -2104,7 +2104,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20909" ;
     skos:prefLabel "TA Masasa"@eng-Latn ;
-    wdata:q7200235 "MW20909" ;
+    wdata:Q7200235 "MW20909" ;
 .
 
 <urn:mdciii:1603:16:454:3:20920>
@@ -2114,7 +2114,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:20920" ;
     skos:prefLabel "Ntcheu Boma"@eng-Latn ;
-    wdata:q7200235 "MW20920" ;
+    wdata:Q7200235 "MW20920" ;
 .
 
 <urn:mdciii:1603:16:454:3:21031>
@@ -2124,7 +2124,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21031" ;
     skos:prefLabel "Area 1"@eng-Latn ;
-    wdata:q7200235 "MW21031" ;
+    wdata:Q7200235 "MW21031" ;
 .
 
 <urn:mdciii:1603:16:454:3:21032>
@@ -2134,7 +2134,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21032" ;
     skos:prefLabel "Area 2"@eng-Latn ;
-    wdata:q7200235 "MW21032" ;
+    wdata:Q7200235 "MW21032" ;
 .
 
 <urn:mdciii:1603:16:454:3:21033>
@@ -2144,7 +2144,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21033" ;
     skos:prefLabel "Area 3"@eng-Latn ;
-    wdata:q7200235 "MW21033" ;
+    wdata:Q7200235 "MW21033" ;
 .
 
 <urn:mdciii:1603:16:454:3:21034>
@@ -2154,7 +2154,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21034" ;
     skos:prefLabel "Area 4"@eng-Latn ;
-    wdata:q7200235 "MW21034" ;
+    wdata:Q7200235 "MW21034" ;
 .
 
 <urn:mdciii:1603:16:454:3:21035>
@@ -2164,7 +2164,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21035" ;
     skos:prefLabel "Area 5"@eng-Latn ;
-    wdata:q7200235 "MW21035" ;
+    wdata:Q7200235 "MW21035" ;
 .
 
 <urn:mdciii:1603:16:454:3:21036>
@@ -2174,7 +2174,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21036" ;
     skos:prefLabel "Area 6"@eng-Latn ;
-    wdata:q7200235 "MW21036" ;
+    wdata:Q7200235 "MW21036" ;
 .
 
 <urn:mdciii:1603:16:454:3:21037>
@@ -2184,7 +2184,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21037" ;
     skos:prefLabel "Area 7"@eng-Latn ;
-    wdata:q7200235 "MW21037" ;
+    wdata:Q7200235 "MW21037" ;
 .
 
 <urn:mdciii:1603:16:454:3:21038>
@@ -2194,7 +2194,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21038" ;
     skos:prefLabel "Area 8"@eng-Latn ;
-    wdata:q7200235 "MW21038" ;
+    wdata:Q7200235 "MW21038" ;
 .
 
 <urn:mdciii:1603:16:454:3:21039>
@@ -2204,7 +2204,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21039" ;
     skos:prefLabel "Area 9"@eng-Latn ;
-    wdata:q7200235 "MW21039" ;
+    wdata:Q7200235 "MW21039" ;
 .
 
 <urn:mdciii:1603:16:454:3:21040>
@@ -2214,7 +2214,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21040" ;
     skos:prefLabel "Area 10"@eng-Latn ;
-    wdata:q7200235 "MW21040" ;
+    wdata:Q7200235 "MW21040" ;
 .
 
 <urn:mdciii:1603:16:454:3:21041>
@@ -2224,7 +2224,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21041" ;
     skos:prefLabel "Area 11"@eng-Latn ;
-    wdata:q7200235 "MW21041" ;
+    wdata:Q7200235 "MW21041" ;
 .
 
 <urn:mdciii:1603:16:454:3:21042>
@@ -2234,7 +2234,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21042" ;
     skos:prefLabel "Area 12"@eng-Latn ;
-    wdata:q7200235 "MW21042" ;
+    wdata:Q7200235 "MW21042" ;
 .
 
 <urn:mdciii:1603:16:454:3:21043>
@@ -2244,7 +2244,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21043" ;
     skos:prefLabel "Area 13"@eng-Latn ;
-    wdata:q7200235 "MW21043" ;
+    wdata:Q7200235 "MW21043" ;
 .
 
 <urn:mdciii:1603:16:454:3:21044>
@@ -2254,7 +2254,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21044" ;
     skos:prefLabel "Area 14"@eng-Latn ;
-    wdata:q7200235 "MW21044" ;
+    wdata:Q7200235 "MW21044" ;
 .
 
 <urn:mdciii:1603:16:454:3:21045>
@@ -2264,7 +2264,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21045" ;
     skos:prefLabel "Area 15"@eng-Latn ;
-    wdata:q7200235 "MW21045" ;
+    wdata:Q7200235 "MW21045" ;
 .
 
 <urn:mdciii:1603:16:454:3:21046>
@@ -2274,7 +2274,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21046" ;
     skos:prefLabel "Area 16"@eng-Latn ;
-    wdata:q7200235 "MW21046" ;
+    wdata:Q7200235 "MW21046" ;
 .
 
 <urn:mdciii:1603:16:454:3:21047>
@@ -2284,7 +2284,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21047" ;
     skos:prefLabel "Area 17"@eng-Latn ;
-    wdata:q7200235 "MW21047" ;
+    wdata:Q7200235 "MW21047" ;
 .
 
 <urn:mdciii:1603:16:454:3:21048>
@@ -2294,7 +2294,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21048" ;
     skos:prefLabel "Area 18"@eng-Latn ;
-    wdata:q7200235 "MW21048" ;
+    wdata:Q7200235 "MW21048" ;
 .
 
 <urn:mdciii:1603:16:454:3:21049>
@@ -2304,7 +2304,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21049" ;
     skos:prefLabel "Area 19"@eng-Latn ;
-    wdata:q7200235 "MW21049" ;
+    wdata:Q7200235 "MW21049" ;
 .
 
 <urn:mdciii:1603:16:454:3:21050>
@@ -2314,7 +2314,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21050" ;
     skos:prefLabel "Area 20"@eng-Latn ;
-    wdata:q7200235 "MW21050" ;
+    wdata:Q7200235 "MW21050" ;
 .
 
 <urn:mdciii:1603:16:454:3:21051>
@@ -2324,7 +2324,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21051" ;
     skos:prefLabel "Area 21"@eng-Latn ;
-    wdata:q7200235 "MW21051" ;
+    wdata:Q7200235 "MW21051" ;
 .
 
 <urn:mdciii:1603:16:454:3:21052>
@@ -2334,7 +2334,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21052" ;
     skos:prefLabel "Area 22"@eng-Latn ;
-    wdata:q7200235 "MW21052" ;
+    wdata:Q7200235 "MW21052" ;
 .
 
 <urn:mdciii:1603:16:454:3:21053>
@@ -2344,7 +2344,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21053" ;
     skos:prefLabel "Area 23"@eng-Latn ;
-    wdata:q7200235 "MW21053" ;
+    wdata:Q7200235 "MW21053" ;
 .
 
 <urn:mdciii:1603:16:454:3:21054>
@@ -2354,7 +2354,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21054" ;
     skos:prefLabel "Area 24"@eng-Latn ;
-    wdata:q7200235 "MW21054" ;
+    wdata:Q7200235 "MW21054" ;
 .
 
 <urn:mdciii:1603:16:454:3:21055>
@@ -2364,7 +2364,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21055" ;
     skos:prefLabel "Area 25"@eng-Latn ;
-    wdata:q7200235 "MW21055" ;
+    wdata:Q7200235 "MW21055" ;
 .
 
 <urn:mdciii:1603:16:454:3:21056>
@@ -2374,7 +2374,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21056" ;
     skos:prefLabel "Area 26"@eng-Latn ;
-    wdata:q7200235 "MW21056" ;
+    wdata:Q7200235 "MW21056" ;
 .
 
 <urn:mdciii:1603:16:454:3:21057>
@@ -2384,7 +2384,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21057" ;
     skos:prefLabel "Area 27"@eng-Latn ;
-    wdata:q7200235 "MW21057" ;
+    wdata:Q7200235 "MW21057" ;
 .
 
 <urn:mdciii:1603:16:454:3:21058>
@@ -2394,7 +2394,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21058" ;
     skos:prefLabel "Area 28"@eng-Latn ;
-    wdata:q7200235 "MW21058" ;
+    wdata:Q7200235 "MW21058" ;
 .
 
 <urn:mdciii:1603:16:454:3:21059>
@@ -2404,7 +2404,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21059" ;
     skos:prefLabel "Area 29"@eng-Latn ;
-    wdata:q7200235 "MW21059" ;
+    wdata:Q7200235 "MW21059" ;
 .
 
 <urn:mdciii:1603:16:454:3:21060>
@@ -2414,7 +2414,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21060" ;
     skos:prefLabel "Area 30"@eng-Latn ;
-    wdata:q7200235 "MW21060" ;
+    wdata:Q7200235 "MW21060" ;
 .
 
 <urn:mdciii:1603:16:454:3:21061>
@@ -2424,7 +2424,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21061" ;
     skos:prefLabel "Area 31"@eng-Latn ;
-    wdata:q7200235 "MW21061" ;
+    wdata:Q7200235 "MW21061" ;
 .
 
 <urn:mdciii:1603:16:454:3:21062>
@@ -2434,7 +2434,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21062" ;
     skos:prefLabel "Area 32"@eng-Latn ;
-    wdata:q7200235 "MW21062" ;
+    wdata:Q7200235 "MW21062" ;
 .
 
 <urn:mdciii:1603:16:454:3:21063>
@@ -2444,7 +2444,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21063" ;
     skos:prefLabel "Area 33"@eng-Latn ;
-    wdata:q7200235 "MW21063" ;
+    wdata:Q7200235 "MW21063" ;
 .
 
 <urn:mdciii:1603:16:454:3:21064>
@@ -2454,7 +2454,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21064" ;
     skos:prefLabel "Area 34"@eng-Latn ;
-    wdata:q7200235 "MW21064" ;
+    wdata:Q7200235 "MW21064" ;
 .
 
 <urn:mdciii:1603:16:454:3:21065>
@@ -2464,7 +2464,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21065" ;
     skos:prefLabel "Area 35"@eng-Latn ;
-    wdata:q7200235 "MW21065" ;
+    wdata:Q7200235 "MW21065" ;
 .
 
 <urn:mdciii:1603:16:454:3:21066>
@@ -2474,7 +2474,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21066" ;
     skos:prefLabel "Area 36"@eng-Latn ;
-    wdata:q7200235 "MW21066" ;
+    wdata:Q7200235 "MW21066" ;
 .
 
 <urn:mdciii:1603:16:454:3:21067>
@@ -2484,7 +2484,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21067" ;
     skos:prefLabel "Area 37"@eng-Latn ;
-    wdata:q7200235 "MW21067" ;
+    wdata:Q7200235 "MW21067" ;
 .
 
 <urn:mdciii:1603:16:454:3:21068>
@@ -2494,7 +2494,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21068" ;
     skos:prefLabel "Area 38"@eng-Latn ;
-    wdata:q7200235 "MW21068" ;
+    wdata:Q7200235 "MW21068" ;
 .
 
 <urn:mdciii:1603:16:454:3:21069>
@@ -2504,7 +2504,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21069" ;
     skos:prefLabel "Area 39"@eng-Latn ;
-    wdata:q7200235 "MW21069" ;
+    wdata:Q7200235 "MW21069" ;
 .
 
 <urn:mdciii:1603:16:454:3:21070>
@@ -2514,7 +2514,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21070" ;
     skos:prefLabel "Area 40"@eng-Latn ;
-    wdata:q7200235 "MW21070" ;
+    wdata:Q7200235 "MW21070" ;
 .
 
 <urn:mdciii:1603:16:454:3:21071>
@@ -2524,7 +2524,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21071" ;
     skos:prefLabel "Area 41"@eng-Latn ;
-    wdata:q7200235 "MW21071" ;
+    wdata:Q7200235 "MW21071" ;
 .
 
 <urn:mdciii:1603:16:454:3:21072>
@@ -2534,7 +2534,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21072" ;
     skos:prefLabel "Area 42"@eng-Latn ;
-    wdata:q7200235 "MW21072" ;
+    wdata:Q7200235 "MW21072" ;
 .
 
 <urn:mdciii:1603:16:454:3:21073>
@@ -2544,7 +2544,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21073" ;
     skos:prefLabel "Area 43"@eng-Latn ;
-    wdata:q7200235 "MW21073" ;
+    wdata:Q7200235 "MW21073" ;
 .
 
 <urn:mdciii:1603:16:454:3:21074>
@@ -2554,7 +2554,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21074" ;
     skos:prefLabel "Area 44"@eng-Latn ;
-    wdata:q7200235 "MW21074" ;
+    wdata:Q7200235 "MW21074" ;
 .
 
 <urn:mdciii:1603:16:454:3:21075>
@@ -2564,7 +2564,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21075" ;
     skos:prefLabel "Area 45"@eng-Latn ;
-    wdata:q7200235 "MW21075" ;
+    wdata:Q7200235 "MW21075" ;
 .
 
 <urn:mdciii:1603:16:454:3:21076>
@@ -2574,7 +2574,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21076" ;
     skos:prefLabel "Area 46"@eng-Latn ;
-    wdata:q7200235 "MW21076" ;
+    wdata:Q7200235 "MW21076" ;
 .
 
 <urn:mdciii:1603:16:454:3:21077>
@@ -2584,7 +2584,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21077" ;
     skos:prefLabel "Area 47"@eng-Latn ;
-    wdata:q7200235 "MW21077" ;
+    wdata:Q7200235 "MW21077" ;
 .
 
 <urn:mdciii:1603:16:454:3:21078>
@@ -2594,7 +2594,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21078" ;
     skos:prefLabel "Area 48"@eng-Latn ;
-    wdata:q7200235 "MW21078" ;
+    wdata:Q7200235 "MW21078" ;
 .
 
 <urn:mdciii:1603:16:454:3:21079>
@@ -2604,7 +2604,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21079" ;
     skos:prefLabel "Area 49"@eng-Latn ;
-    wdata:q7200235 "MW21079" ;
+    wdata:Q7200235 "MW21079" ;
 .
 
 <urn:mdciii:1603:16:454:3:21080>
@@ -2614,7 +2614,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21080" ;
     skos:prefLabel "Area 50"@eng-Latn ;
-    wdata:q7200235 "MW21080" ;
+    wdata:Q7200235 "MW21080" ;
 .
 
 <urn:mdciii:1603:16:454:3:21081>
@@ -2624,7 +2624,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21081" ;
     skos:prefLabel "Area 51"@eng-Latn ;
-    wdata:q7200235 "MW21081" ;
+    wdata:Q7200235 "MW21081" ;
 .
 
 <urn:mdciii:1603:16:454:3:21082>
@@ -2634,7 +2634,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21082" ;
     skos:prefLabel "Area 52"@eng-Latn ;
-    wdata:q7200235 "MW21082" ;
+    wdata:Q7200235 "MW21082" ;
 .
 
 <urn:mdciii:1603:16:454:3:21083>
@@ -2644,7 +2644,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21083" ;
     skos:prefLabel "Area 53"@eng-Latn ;
-    wdata:q7200235 "MW21083" ;
+    wdata:Q7200235 "MW21083" ;
 .
 
 <urn:mdciii:1603:16:454:3:21084>
@@ -2654,7 +2654,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21084" ;
     skos:prefLabel "Area 54"@eng-Latn ;
-    wdata:q7200235 "MW21084" ;
+    wdata:Q7200235 "MW21084" ;
 .
 
 <urn:mdciii:1603:16:454:3:21085>
@@ -2664,7 +2664,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21085" ;
     skos:prefLabel "Area 55"@eng-Latn ;
-    wdata:q7200235 "MW21085" ;
+    wdata:Q7200235 "MW21085" ;
 .
 
 <urn:mdciii:1603:16:454:3:21086>
@@ -2674,7 +2674,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21086" ;
     skos:prefLabel "Area 56"@eng-Latn ;
-    wdata:q7200235 "MW21086" ;
+    wdata:Q7200235 "MW21086" ;
 .
 
 <urn:mdciii:1603:16:454:3:21087>
@@ -2684,7 +2684,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21087" ;
     skos:prefLabel "Area 57"@eng-Latn ;
-    wdata:q7200235 "MW21087" ;
+    wdata:Q7200235 "MW21087" ;
 .
 
 <urn:mdciii:1603:16:454:3:21088>
@@ -2694,7 +2694,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:21088" ;
     skos:prefLabel "Area 58"@eng-Latn ;
-    wdata:q7200235 "MW21088" ;
+    wdata:Q7200235 "MW21088" ;
 .
 
 <urn:mdciii:1603:16:454:3:30101>
@@ -2704,7 +2704,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30101" ;
     skos:prefLabel "TA Mponda"@eng-Latn ;
-    wdata:q7200235 "MW30101" ;
+    wdata:Q7200235 "MW30101" ;
 .
 
 <urn:mdciii:1603:16:454:3:30102>
@@ -2714,7 +2714,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30102" ;
     skos:prefLabel "TA Chimwala"@eng-Latn ;
-    wdata:q7200235 "MW30102" ;
+    wdata:Q7200235 "MW30102" ;
 .
 
 <urn:mdciii:1603:16:454:3:30103>
@@ -2724,7 +2724,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30103" ;
     skos:prefLabel "TA Nankumba"@eng-Latn ;
-    wdata:q7200235 "MW30103" ;
+    wdata:Q7200235 "MW30103" ;
 .
 
 <urn:mdciii:1603:16:454:3:30104>
@@ -2734,7 +2734,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30104" ;
     skos:prefLabel "TA Jalasi"@eng-Latn ;
-    wdata:q7200235 "MW30104" ;
+    wdata:Q7200235 "MW30104" ;
 .
 
 <urn:mdciii:1603:16:454:3:30105>
@@ -2746,7 +2746,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mbwana Nyambi"@eng-Latn ,
         "TA Mbwana Nyambi"@eng-Latn ;
-    wdata:q7200235 "MW30105" ;
+    wdata:Q7200235 "MW30105" ;
 .
 
 <urn:mdciii:1603:16:454:3:30106>
@@ -2758,7 +2758,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Chowe"@eng-Latn ,
         "TA Chowe"@eng-Latn ;
-    wdata:q7200235 "MW30106" ;
+    wdata:Q7200235 "MW30106" ;
 .
 
 <urn:mdciii:1603:16:454:3:30107>
@@ -2768,7 +2768,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30107" ;
     skos:prefLabel "TA Katuli"@eng-Latn ;
-    wdata:q7200235 "MW30107" ;
+    wdata:Q7200235 "MW30107" ;
 .
 
 <urn:mdciii:1603:16:454:3:30108>
@@ -2778,7 +2778,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30108" ;
     skos:prefLabel "TA Makanjila"@eng-Latn ;
-    wdata:q7200235 "MW30108" ;
+    wdata:Q7200235 "MW30108" ;
 .
 
 <urn:mdciii:1603:16:454:3:30109>
@@ -2790,7 +2790,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Namabvi"@eng-Latn ,
         "STA Namabvi"@eng-Latn ;
-    wdata:q7200235 "MW30109" ;
+    wdata:Q7200235 "MW30109" ;
 .
 
 <urn:mdciii:1603:16:454:3:30111>
@@ -2802,7 +2802,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Lake Malawi National Park"@eng-Latn ,
         "Lake Malawi Natl. Park - Mangochi"@eng-Latn ;
-    wdata:q7200235 "MW30111" ;
+    wdata:Q7200235 "MW30111" ;
 .
 
 <urn:mdciii:1603:16:454:3:30120>
@@ -2814,7 +2814,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Mangochi Town"@eng-Latn ,
         "Mangochi Township"@eng-Latn ;
-    wdata:q7200235 "MW30120" ;
+    wdata:Q7200235 "MW30120" ;
 .
 
 <urn:mdciii:1603:16:454:3:30121>
@@ -2824,7 +2824,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30121" ;
     skos:prefLabel "Monkey Bay Urban"@eng-Latn ;
-    wdata:q7200235 "MW30121" ;
+    wdata:Q7200235 "MW30121" ;
 .
 
 <urn:mdciii:1603:16:454:3:30199>
@@ -2834,7 +2834,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30199" ;
     skos:prefLabel "Lake Malombe"@eng-Latn ;
-    wdata:q7200235 "MW30199" ;
+    wdata:Q7200235 "MW30199" ;
 .
 
 <urn:mdciii:1603:16:454:3:30201>
@@ -2844,7 +2844,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30201" ;
     skos:prefLabel "TA Liwonde"@eng-Latn ;
-    wdata:q7200235 "MW30201" ;
+    wdata:Q7200235 "MW30201" ;
 .
 
 <urn:mdciii:1603:16:454:3:30202>
@@ -2856,7 +2856,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Sitola"@eng-Latn ,
         "TA Sitola"@eng-Latn ;
-    wdata:q7200235 "MW30202" ;
+    wdata:Q7200235 "MW30202" ;
 .
 
 <urn:mdciii:1603:16:454:3:30203>
@@ -2868,7 +2868,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Senior TA Kawinga"@eng-Latn ,
         "TA Kawinga"@eng-Latn ;
-    wdata:q7200235 "MW30203" ;
+    wdata:Q7200235 "MW30203" ;
 .
 
 <urn:mdciii:1603:16:454:3:30204>
@@ -2880,7 +2880,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Chamba"@eng-Latn ,
         "TA Chamba"@eng-Latn ;
-    wdata:q7200235 "MW30204" ;
+    wdata:Q7200235 "MW30204" ;
 .
 
 <urn:mdciii:1603:16:454:3:30205>
@@ -2892,7 +2892,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mposa"@eng-Latn ,
         "TA Mposa"@eng-Latn ;
-    wdata:q7200235 "MW30205" ;
+    wdata:Q7200235 "MW30205" ;
 .
 
 <urn:mdciii:1603:16:454:3:30206>
@@ -2904,7 +2904,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mlomba"@eng-Latn ,
         "TA Mlomba"@eng-Latn ;
-    wdata:q7200235 "MW30206" ;
+    wdata:Q7200235 "MW30206" ;
 .
 
 <urn:mdciii:1603:16:454:3:30207>
@@ -2916,7 +2916,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Chikweo"@eng-Latn ,
         "TA Chikweo"@eng-Latn ;
-    wdata:q7200235 "MW30207" ;
+    wdata:Q7200235 "MW30207" ;
 .
 
 <urn:mdciii:1603:16:454:3:30208>
@@ -2928,7 +2928,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Ngokwe"@eng-Latn ,
         "TA Ngokwe"@eng-Latn ;
-    wdata:q7200235 "MW30208" ;
+    wdata:Q7200235 "MW30208" ;
 .
 
 <urn:mdciii:1603:16:454:3:30209>
@@ -2940,7 +2940,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Chiwalo"@eng-Latn ,
         "STA Chiwalo"@eng-Latn ;
-    wdata:q7200235 "MW30209" ;
+    wdata:Q7200235 "MW30209" ;
 .
 
 <urn:mdciii:1603:16:454:3:30210>
@@ -2950,7 +2950,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30210" ;
     skos:prefLabel "TA Nyambi"@eng-Latn ;
-    wdata:q7200235 "MW30210" ;
+    wdata:Q7200235 "MW30210" ;
 .
 
 <urn:mdciii:1603:16:454:3:30213>
@@ -2960,7 +2960,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30213" ;
     skos:prefLabel "Liwonde National Park"@eng-Latn ;
-    wdata:q7200235 "MW30213" ;
+    wdata:Q7200235 "MW30213" ;
 .
 
 <urn:mdciii:1603:16:454:3:30220>
@@ -2970,7 +2970,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30220" ;
     skos:prefLabel "Machinga Boma"@eng-Latn ;
-    wdata:q7200235 "MW30220" ;
+    wdata:Q7200235 "MW30220" ;
 .
 
 <urn:mdciii:1603:16:454:3:30222>
@@ -2982,7 +2982,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Liwonde Town"@eng-Latn ,
         "Liwonde Township"@eng-Latn ;
-    wdata:q7200235 "MW30222" ;
+    wdata:Q7200235 "MW30222" ;
 .
 
 <urn:mdciii:1603:16:454:3:30299>
@@ -2992,7 +2992,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30299" ;
     skos:prefLabel "Lake Chiuta"@eng-Latn ;
-    wdata:q7200235 "MW30299" ;
+    wdata:Q7200235 "MW30299" ;
 .
 
 <urn:mdciii:1603:16:454:3:30301>
@@ -3002,7 +3002,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30301" ;
     skos:prefLabel "TA Kuntumanji"@eng-Latn ;
-    wdata:q7200235 "MW30301" ;
+    wdata:Q7200235 "MW30301" ;
 .
 
 <urn:mdciii:1603:16:454:3:30302>
@@ -3012,7 +3012,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30302" ;
     skos:prefLabel "TA Mwambo"@eng-Latn ;
-    wdata:q7200235 "MW30302" ;
+    wdata:Q7200235 "MW30302" ;
 .
 
 <urn:mdciii:1603:16:454:3:30303>
@@ -3024,7 +3024,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mkumbira"@eng-Latn ,
         "TA Mkumbira"@eng-Latn ;
-    wdata:q7200235 "MW30303" ;
+    wdata:Q7200235 "MW30303" ;
 .
 
 <urn:mdciii:1603:16:454:3:30304>
@@ -3034,7 +3034,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30304" ;
     skos:prefLabel "TA Chikowi"@eng-Latn ;
-    wdata:q7200235 "MW30304" ;
+    wdata:Q7200235 "MW30304" ;
 .
 
 <urn:mdciii:1603:16:454:3:30305>
@@ -3046,7 +3046,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mbiza"@eng-Latn ,
         "STA Mbiza"@eng-Latn ;
-    wdata:q7200235 "MW30305" ;
+    wdata:Q7200235 "MW30305" ;
 .
 
 <urn:mdciii:1603:16:454:3:30306>
@@ -3056,7 +3056,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30306" ;
     skos:prefLabel "TA Mlumbe"@eng-Latn ;
-    wdata:q7200235 "MW30306" ;
+    wdata:Q7200235 "MW30306" ;
 .
 
 <urn:mdciii:1603:16:454:3:30307>
@@ -3066,7 +3066,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30307" ;
     skos:prefLabel "TA Malemia"@eng-Latn ;
-    wdata:q7200235 "MW30307" ;
+    wdata:Q7200235 "MW30307" ;
 .
 
 <urn:mdciii:1603:16:454:3:30399>
@@ -3076,7 +3076,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30399" ;
     skos:prefLabel "Lake Chilwa"@eng-Latn ;
-    wdata:q7200235 "MW30399" ;
+    wdata:Q7200235 "MW30399" ;
 .
 
 <urn:mdciii:1603:16:454:3:30401>
@@ -3086,7 +3086,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30401" ;
     skos:prefLabel "TA Mpama"@eng-Latn ;
-    wdata:q7200235 "MW30401" ;
+    wdata:Q7200235 "MW30401" ;
 .
 
 <urn:mdciii:1603:16:454:3:30402>
@@ -3096,7 +3096,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30402" ;
     skos:prefLabel "TA Likoswe"@eng-Latn ;
-    wdata:q7200235 "MW30402" ;
+    wdata:Q7200235 "MW30402" ;
 .
 
 <urn:mdciii:1603:16:454:3:30403>
@@ -3106,7 +3106,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30403" ;
     skos:prefLabel "TA Kadewere"@eng-Latn ;
-    wdata:q7200235 "MW30403" ;
+    wdata:Q7200235 "MW30403" ;
 .
 
 <urn:mdciii:1603:16:454:3:30404>
@@ -3116,7 +3116,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30404" ;
     skos:prefLabel "TA Nkalo"@eng-Latn ;
-    wdata:q7200235 "MW30404" ;
+    wdata:Q7200235 "MW30404" ;
 .
 
 <urn:mdciii:1603:16:454:3:30405>
@@ -3126,7 +3126,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30405" ;
     skos:prefLabel "TA Chitera"@eng-Latn ;
-    wdata:q7200235 "MW30405" ;
+    wdata:Q7200235 "MW30405" ;
 .
 
 <urn:mdciii:1603:16:454:3:30406>
@@ -3136,7 +3136,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30406" ;
     skos:prefLabel "TA Nchema"@eng-Latn ;
-    wdata:q7200235 "MW30406" ;
+    wdata:Q7200235 "MW30406" ;
 .
 
 <urn:mdciii:1603:16:454:3:30420>
@@ -3146,7 +3146,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30420" ;
     skos:prefLabel "Chiradzulu Boma"@eng-Latn ;
-    wdata:q7200235 "MW30420" ;
+    wdata:Q7200235 "MW30420" ;
 .
 
 <urn:mdciii:1603:16:454:3:30501>
@@ -3158,7 +3158,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Senior TA Kapeni"@eng-Latn ,
         "TA Kapeni"@eng-Latn ;
-    wdata:q7200235 "MW30501" ;
+    wdata:Q7200235 "MW30501" ;
 .
 
 <urn:mdciii:1603:16:454:3:30502>
@@ -3168,7 +3168,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30502" ;
     skos:prefLabel "TA Lundu"@eng-Latn ;
-    wdata:q7200235 "MW30502" ;
+    wdata:Q7200235 "MW30502" ;
 .
 
 <urn:mdciii:1603:16:454:3:30503>
@@ -3178,7 +3178,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30503" ;
     skos:prefLabel "TA Chigaru"@eng-Latn ;
-    wdata:q7200235 "MW30503" ;
+    wdata:Q7200235 "MW30503" ;
 .
 
 <urn:mdciii:1603:16:454:3:30504>
@@ -3188,7 +3188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30504" ;
     skos:prefLabel "TA Kunthembwe"@eng-Latn ;
-    wdata:q7200235 "MW30504" ;
+    wdata:Q7200235 "MW30504" ;
 .
 
 <urn:mdciii:1603:16:454:3:30505>
@@ -3198,7 +3198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30505" ;
     skos:prefLabel "TA Makata"@eng-Latn ;
-    wdata:q7200235 "MW30505" ;
+    wdata:Q7200235 "MW30505" ;
 .
 
 <urn:mdciii:1603:16:454:3:30506>
@@ -3208,7 +3208,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30506" ;
     skos:prefLabel "TA Kuntaja"@eng-Latn ;
-    wdata:q7200235 "MW30506" ;
+    wdata:Q7200235 "MW30506" ;
 .
 
 <urn:mdciii:1603:16:454:3:30507>
@@ -3218,7 +3218,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30507" ;
     skos:prefLabel "TA Machinjili"@eng-Latn ;
-    wdata:q7200235 "MW30507" ;
+    wdata:Q7200235 "MW30507" ;
 .
 
 <urn:mdciii:1603:16:454:3:30508>
@@ -3228,7 +3228,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30508" ;
     skos:prefLabel "TA Somba"@eng-Latn ;
-    wdata:q7200235 "MW30508" ;
+    wdata:Q7200235 "MW30508" ;
 .
 
 <urn:mdciii:1603:16:454:3:30601>
@@ -3238,7 +3238,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30601" ;
     skos:prefLabel "TA Kanduku"@eng-Latn ;
-    wdata:q7200235 "MW30601" ;
+    wdata:Q7200235 "MW30601" ;
 .
 
 <urn:mdciii:1603:16:454:3:30602>
@@ -3248,7 +3248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30602" ;
     skos:prefLabel "TA Nthache"@eng-Latn ;
-    wdata:q7200235 "MW30602" ;
+    wdata:Q7200235 "MW30602" ;
 .
 
 <urn:mdciii:1603:16:454:3:30620>
@@ -3258,7 +3258,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30620" ;
     skos:prefLabel "Mwanza Boma"@eng-Latn ;
-    wdata:q7200235 "MW30620" ;
+    wdata:Q7200235 "MW30620" ;
 .
 
 <urn:mdciii:1603:16:454:3:30701>
@@ -3268,7 +3268,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30701" ;
     skos:prefLabel "TA Nsabwe"@eng-Latn ;
-    wdata:q7200235 "MW30701" ;
+    wdata:Q7200235 "MW30701" ;
 .
 
 <urn:mdciii:1603:16:454:3:30702>
@@ -3280,7 +3280,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Thukuta"@eng-Latn ,
         "STA Thukuta"@eng-Latn ;
-    wdata:q7200235 "MW30702" ;
+    wdata:Q7200235 "MW30702" ;
 .
 
 <urn:mdciii:1603:16:454:3:30703>
@@ -3292,7 +3292,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mbawela"@eng-Latn ,
         "STA Mbawela"@eng-Latn ;
-    wdata:q7200235 "MW30703" ;
+    wdata:Q7200235 "MW30703" ;
 .
 
 <urn:mdciii:1603:16:454:3:30704>
@@ -3304,7 +3304,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "STA Chingata"@eng-Latn ,
         "TA Changata"@eng-Latn ;
-    wdata:q7200235 "MW30704" ;
+    wdata:Q7200235 "MW30704" ;
 .
 
 <urn:mdciii:1603:16:454:3:30705>
@@ -3316,7 +3316,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mphuka"@eng-Latn ,
         "STA Mphuka"@eng-Latn ;
-    wdata:q7200235 "MW30705" ;
+    wdata:Q7200235 "MW30705" ;
 .
 
 <urn:mdciii:1603:16:454:3:30706>
@@ -3328,7 +3328,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Kwethemule"@eng-Latn ,
         "STA Kwethemule"@eng-Latn ;
-    wdata:q7200235 "MW30706" ;
+    wdata:Q7200235 "MW30706" ;
 .
 
 <urn:mdciii:1603:16:454:3:30707>
@@ -3338,7 +3338,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30707" ;
     skos:prefLabel "TA Kapichi"@eng-Latn ;
-    wdata:q7200235 "MW30707" ;
+    wdata:Q7200235 "MW30707" ;
 .
 
 <urn:mdciii:1603:16:454:3:30708>
@@ -3348,7 +3348,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30708" ;
     skos:prefLabel "TA Nchilamwela"@eng-Latn ;
-    wdata:q7200235 "MW30708" ;
+    wdata:Q7200235 "MW30708" ;
 .
 
 <urn:mdciii:1603:16:454:3:30709>
@@ -3358,7 +3358,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30709" ;
     skos:prefLabel "TA Chimaliro"@eng-Latn ;
-    wdata:q7200235 "MW30709" ;
+    wdata:Q7200235 "MW30709" ;
 .
 
 <urn:mdciii:1603:16:454:3:30710>
@@ -3368,7 +3368,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30710" ;
     skos:prefLabel "TA Bvumbwe"@eng-Latn ;
-    wdata:q7200235 "MW30710" ;
+    wdata:Q7200235 "MW30710" ;
 .
 
 <urn:mdciii:1603:16:454:3:30711>
@@ -3378,7 +3378,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30711" ;
     skos:prefLabel "TA Thomas"@eng-Latn ;
-    wdata:q7200235 "MW30711" ;
+    wdata:Q7200235 "MW30711" ;
 .
 
 <urn:mdciii:1603:16:454:3:30720>
@@ -3388,7 +3388,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30720" ;
     skos:prefLabel "Thyolo Boma"@eng-Latn ;
-    wdata:q7200235 "MW30720" ;
+    wdata:Q7200235 "MW30720" ;
 .
 
 <urn:mdciii:1603:16:454:3:30721>
@@ -3400,7 +3400,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Luchenza Town"@eng-Latn ,
         "Luchenza Township"@eng-Latn ;
-    wdata:q7200235 "MW30721" ;
+    wdata:Q7200235 "MW30721" ;
 .
 
 <urn:mdciii:1603:16:454:3:30801>
@@ -3410,7 +3410,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30801" ;
     skos:prefLabel "TA Mabuka"@eng-Latn ;
-    wdata:q7200235 "MW30801" ;
+    wdata:Q7200235 "MW30801" ;
 .
 
 <urn:mdciii:1603:16:454:3:30802>
@@ -3422,7 +3422,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Laston Njema"@eng-Latn ,
         "SC Laston Njema"@eng-Latn ;
-    wdata:q7200235 "MW30802" ;
+    wdata:Q7200235 "MW30802" ;
 .
 
 <urn:mdciii:1603:16:454:3:30803>
@@ -3432,7 +3432,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30803" ;
     skos:prefLabel "TA Chikumbu"@eng-Latn ;
-    wdata:q7200235 "MW30803" ;
+    wdata:Q7200235 "MW30803" ;
 .
 
 <urn:mdciii:1603:16:454:3:30804>
@@ -3442,7 +3442,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30804" ;
     skos:prefLabel "TA Nthiramanja"@eng-Latn ;
-    wdata:q7200235 "MW30804" ;
+    wdata:Q7200235 "MW30804" ;
 .
 
 <urn:mdciii:1603:16:454:3:30805>
@@ -3452,7 +3452,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30805" ;
     skos:prefLabel "TA Nkanda"@eng-Latn ;
-    wdata:q7200235 "MW30805" ;
+    wdata:Q7200235 "MW30805" ;
 .
 
 <urn:mdciii:1603:16:454:3:30806>
@@ -3464,7 +3464,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Juma"@eng-Latn ,
         "TA Juma"@eng-Latn ;
-    wdata:q7200235 "MW30806" ;
+    wdata:Q7200235 "MW30806" ;
 .
 
 <urn:mdciii:1603:16:454:3:30807>
@@ -3474,7 +3474,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30807" ;
     skos:prefLabel "Mulanje Mountain Reserve"@eng-Latn ;
-    wdata:q7200235 "MW30807" ;
+    wdata:Q7200235 "MW30807" ;
 .
 
 <urn:mdciii:1603:16:454:3:30820>
@@ -3484,7 +3484,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30820" ;
     skos:prefLabel "Mulanje Boma"@eng-Latn ;
-    wdata:q7200235 "MW30820" ;
+    wdata:Q7200235 "MW30820" ;
 .
 
 <urn:mdciii:1603:16:454:3:30901>
@@ -3494,7 +3494,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30901" ;
     skos:prefLabel "TA Mkhumba"@eng-Latn ;
-    wdata:q7200235 "MW30901" ;
+    wdata:Q7200235 "MW30901" ;
 .
 
 <urn:mdciii:1603:16:454:3:30902>
@@ -3504,7 +3504,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30902" ;
     skos:prefLabel "TA Nazombe"@eng-Latn ;
-    wdata:q7200235 "MW30902" ;
+    wdata:Q7200235 "MW30902" ;
 .
 
 <urn:mdciii:1603:16:454:3:30903>
@@ -3516,7 +3516,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "STA Chiwalo (STA Chiwalo) (TA Nazom"@eng-Latn ,
         "TA Chiwalo"@eng-Latn ;
-    wdata:q7200235 "MW30903" ;
+    wdata:Q7200235 "MW30903" ;
 .
 
 <urn:mdciii:1603:16:454:3:30904>
@@ -3526,7 +3526,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:30904" ;
     skos:prefLabel "Lake Chilwa"@eng-Latn ;
-    wdata:q7200235 "MW30904" ;
+    wdata:Q7200235 "MW30904" ;
 .
 
 <urn:mdciii:1603:16:454:3:30920>
@@ -3538,7 +3538,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Phalombe"@eng-Latn ,
         "Phalombe Boma"@eng-Latn ;
-    wdata:q7200235 "MW30920" ;
+    wdata:Q7200235 "MW30920" ;
 .
 
 <urn:mdciii:1603:16:454:3:31001>
@@ -3548,7 +3548,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31001" ;
     skos:prefLabel "TA Ngabu"@eng-Latn ;
-    wdata:q7200235 "MW31001" ;
+    wdata:Q7200235 "MW31001" ;
 .
 
 <urn:mdciii:1603:16:454:3:31002>
@@ -3558,7 +3558,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31002" ;
     skos:prefLabel "TA Lundu"@eng-Latn ;
-    wdata:q7200235 "MW31002" ;
+    wdata:Q7200235 "MW31002" ;
 .
 
 <urn:mdciii:1603:16:454:3:31003>
@@ -3568,7 +3568,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31003" ;
     skos:prefLabel "TA Chapananga"@eng-Latn ;
-    wdata:q7200235 "MW31003" ;
+    wdata:Q7200235 "MW31003" ;
 .
 
 <urn:mdciii:1603:16:454:3:31004>
@@ -3578,7 +3578,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31004" ;
     skos:prefLabel "TA Maseya"@eng-Latn ;
-    wdata:q7200235 "MW31004" ;
+    wdata:Q7200235 "MW31004" ;
 .
 
 <urn:mdciii:1603:16:454:3:31005>
@@ -3588,7 +3588,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31005" ;
     skos:prefLabel "TA Katunga"@eng-Latn ;
-    wdata:q7200235 "MW31005" ;
+    wdata:Q7200235 "MW31005" ;
 .
 
 <urn:mdciii:1603:16:454:3:31006>
@@ -3598,7 +3598,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31006" ;
     skos:prefLabel "TA Kasisi"@eng-Latn ;
-    wdata:q7200235 "MW31006" ;
+    wdata:Q7200235 "MW31006" ;
 .
 
 <urn:mdciii:1603:16:454:3:31007>
@@ -3608,7 +3608,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31007" ;
     skos:prefLabel "TA Makhwira"@eng-Latn ;
-    wdata:q7200235 "MW31007" ;
+    wdata:Q7200235 "MW31007" ;
 .
 
 <urn:mdciii:1603:16:454:3:31008>
@@ -3618,7 +3618,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31008" ;
     skos:prefLabel "Lengwe National Park"@eng-Latn ;
-    wdata:q7200235 "MW31008" ;
+    wdata:Q7200235 "MW31008" ;
 .
 
 <urn:mdciii:1603:16:454:3:31009>
@@ -3628,7 +3628,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31009" ;
     skos:prefLabel "Majete Game Reserve - Chikwawa"@eng-Latn ;
-    wdata:q7200235 "MW31009" ;
+    wdata:Q7200235 "MW31009" ;
 .
 
 <urn:mdciii:1603:16:454:3:31020>
@@ -3638,7 +3638,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31020" ;
     skos:prefLabel "Chikwawa Boma"@eng-Latn ;
-    wdata:q7200235 "MW31020" ;
+    wdata:Q7200235 "MW31020" ;
 .
 
 <urn:mdciii:1603:16:454:3:31101>
@@ -3648,7 +3648,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31101" ;
     skos:prefLabel "TA Ndamera"@eng-Latn ;
-    wdata:q7200235 "MW31101" ;
+    wdata:Q7200235 "MW31101" ;
 .
 
 <urn:mdciii:1603:16:454:3:31102>
@@ -3658,7 +3658,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31102" ;
     skos:prefLabel "TA Chimombo"@eng-Latn ;
-    wdata:q7200235 "MW31102" ;
+    wdata:Q7200235 "MW31102" ;
 .
 
 <urn:mdciii:1603:16:454:3:31103>
@@ -3668,7 +3668,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31103" ;
     skos:prefLabel "TA Nyachikadza"@eng-Latn ;
-    wdata:q7200235 "MW31103" ;
+    wdata:Q7200235 "MW31103" ;
 .
 
 <urn:mdciii:1603:16:454:3:31104>
@@ -3678,7 +3678,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31104" ;
     skos:prefLabel "TA Mlolo"@eng-Latn ;
-    wdata:q7200235 "MW31104" ;
+    wdata:Q7200235 "MW31104" ;
 .
 
 <urn:mdciii:1603:16:454:3:31105>
@@ -3688,7 +3688,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31105" ;
     skos:prefLabel "TA Tengani"@eng-Latn ;
-    wdata:q7200235 "MW31105" ;
+    wdata:Q7200235 "MW31105" ;
 .
 
 <urn:mdciii:1603:16:454:3:31106>
@@ -3700,7 +3700,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Mbenje"@eng-Latn ,
         "TA Mbenje"@eng-Latn ;
-    wdata:q7200235 "MW31106" ;
+    wdata:Q7200235 "MW31106" ;
 .
 
 <urn:mdciii:1603:16:454:3:31107>
@@ -3710,7 +3710,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31107" ;
     skos:prefLabel "TA Malemia"@eng-Latn ;
-    wdata:q7200235 "MW31107" ;
+    wdata:Q7200235 "MW31107" ;
 .
 
 <urn:mdciii:1603:16:454:3:31108>
@@ -3720,7 +3720,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31108" ;
     skos:prefLabel "TA Ngabu"@eng-Latn ;
-    wdata:q7200235 "MW31108" ;
+    wdata:Q7200235 "MW31108" ;
 .
 
 <urn:mdciii:1603:16:454:3:31109>
@@ -3732,7 +3732,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "SC Makoka"@eng-Latn ,
         "STA Makoko"@eng-Latn ;
-    wdata:q7200235 "MW31109" ;
+    wdata:Q7200235 "MW31109" ;
 .
 
 <urn:mdciii:1603:16:454:3:31110>
@@ -3742,7 +3742,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31110" ;
     skos:prefLabel "Mwabvi Game Reserve"@eng-Latn ;
-    wdata:q7200235 "MW31110" ;
+    wdata:Q7200235 "MW31110" ;
 .
 
 <urn:mdciii:1603:16:454:3:31120>
@@ -3752,7 +3752,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31120" ;
     skos:prefLabel "Nsanje Boma"@eng-Latn ;
-    wdata:q7200235 "MW31120" ;
+    wdata:Q7200235 "MW31120" ;
 .
 
 <urn:mdciii:1603:16:454:3:31201>
@@ -3764,7 +3764,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "TA Msamala"@eng-Latn ,
         "TA Nsamala"@eng-Latn ;
-    wdata:q7200235 "MW31201" ;
+    wdata:Q7200235 "MW31201" ;
 .
 
 <urn:mdciii:1603:16:454:3:31204>
@@ -3774,7 +3774,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31204" ;
     skos:prefLabel "TA Kalembo"@eng-Latn ;
-    wdata:q7200235 "MW31204" ;
+    wdata:Q7200235 "MW31204" ;
 .
 
 <urn:mdciii:1603:16:454:3:31220>
@@ -3786,7 +3786,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Balaka Boma"@eng-Latn ,
         "Balaka Town"@eng-Latn ;
-    wdata:q7200235 "MW31220" ;
+    wdata:Q7200235 "MW31220" ;
 .
 
 <urn:mdciii:1603:16:454:3:31301>
@@ -3796,7 +3796,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31301" ;
     skos:prefLabel "TA Dambe"@eng-Latn ;
-    wdata:q7200235 "MW31301" ;
+    wdata:Q7200235 "MW31301" ;
 .
 
 <urn:mdciii:1603:16:454:3:31302>
@@ -3806,7 +3806,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31302" ;
     skos:prefLabel "TA Mlauli"@eng-Latn ;
-    wdata:q7200235 "MW31302" ;
+    wdata:Q7200235 "MW31302" ;
 .
 
 <urn:mdciii:1603:16:454:3:31303>
@@ -3816,7 +3816,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31303" ;
     skos:prefLabel "TA Symon"@eng-Latn ;
-    wdata:q7200235 "MW31303" ;
+    wdata:Q7200235 "MW31303" ;
 .
 
 <urn:mdciii:1603:16:454:3:31304>
@@ -3826,7 +3826,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31304" ;
     skos:prefLabel "TA Ngozi"@eng-Latn ;
-    wdata:q7200235 "MW31304" ;
+    wdata:Q7200235 "MW31304" ;
 .
 
 <urn:mdciii:1603:16:454:3:31305>
@@ -3836,7 +3836,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31305" ;
     skos:prefLabel "Majete Game Reserve - Neno"@eng-Latn ;
-    wdata:q7200235 "MW31305" ;
+    wdata:Q7200235 "MW31305" ;
 .
 
 <urn:mdciii:1603:16:454:3:31320>
@@ -3846,7 +3846,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31320" ;
     skos:prefLabel "Neno Boma"@eng-Latn ;
-    wdata:q7200235 "MW31320" ;
+    wdata:Q7200235 "MW31320" ;
 .
 
 <urn:mdciii:1603:16:454:3:31431>
@@ -3856,7 +3856,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31431" ;
     skos:prefLabel "Mbedza Ward"@eng-Latn ;
-    wdata:q7200235 "MW31431" ;
+    wdata:Q7200235 "MW31431" ;
 .
 
 <urn:mdciii:1603:16:454:3:31432>
@@ -3866,7 +3866,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31432" ;
     skos:prefLabel "Mtiya Ward"@eng-Latn ;
-    wdata:q7200235 "MW31432" ;
+    wdata:Q7200235 "MW31432" ;
 .
 
 <urn:mdciii:1603:16:454:3:31433>
@@ -3878,7 +3878,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Masondola Ward"@eng-Latn ,
         "Masongola Ward"@eng-Latn ;
-    wdata:q7200235 "MW31433" ;
+    wdata:Q7200235 "MW31433" ;
 .
 
 <urn:mdciii:1603:16:454:3:31434>
@@ -3888,7 +3888,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31434" ;
     skos:prefLabel "Chikamveka Ward"@eng-Latn ;
-    wdata:q7200235 "MW31434" ;
+    wdata:Q7200235 "MW31434" ;
 .
 
 <urn:mdciii:1603:16:454:3:31435>
@@ -3898,7 +3898,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31435" ;
     skos:prefLabel "Chikamveka North Ward"@eng-Latn ;
-    wdata:q7200235 "MW31435" ;
+    wdata:Q7200235 "MW31435" ;
 .
 
 <urn:mdciii:1603:16:454:3:31436>
@@ -3910,7 +3910,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Chilunga East Ward"@eng-Latn ,
         "Chirunga East Ward"@eng-Latn ;
-    wdata:q7200235 "MW31436" ;
+    wdata:Q7200235 "MW31436" ;
 .
 
 <urn:mdciii:1603:16:454:3:31437>
@@ -3920,7 +3920,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31437" ;
     skos:prefLabel "Chirunga Ward"@eng-Latn ;
-    wdata:q7200235 "MW31437" ;
+    wdata:Q7200235 "MW31437" ;
 .
 
 <urn:mdciii:1603:16:454:3:31438>
@@ -3932,7 +3932,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Likangal North Ward"@eng-Latn ,
         "Likangala Ward"@eng-Latn ;
-    wdata:q7200235 "MW31438" ;
+    wdata:Q7200235 "MW31438" ;
 .
 
 <urn:mdciii:1603:16:454:3:31439>
@@ -3942,7 +3942,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31439" ;
     skos:prefLabel "Zakazaka Ward"@eng-Latn ;
-    wdata:q7200235 "MW31439" ;
+    wdata:Q7200235 "MW31439" ;
 .
 
 <urn:mdciii:1603:16:454:3:31440>
@@ -3952,7 +3952,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31440" ;
     skos:prefLabel "Zomba Central Ward"@eng-Latn ;
-    wdata:q7200235 "MW31440" ;
+    wdata:Q7200235 "MW31440" ;
 .
 
 <urn:mdciii:1603:16:454:3:31441>
@@ -3962,7 +3962,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31441" ;
     skos:prefLabel "Chambo Ward"@eng-Latn ;
-    wdata:q7200235 "MW31441" ;
+    wdata:Q7200235 "MW31441" ;
 .
 
 <urn:mdciii:1603:16:454:3:31442>
@@ -3972,7 +3972,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31442" ;
     skos:prefLabel "Sadzi Ward"@eng-Latn ;
-    wdata:q7200235 "MW31442" ;
+    wdata:Q7200235 "MW31442" ;
 .
 
 <urn:mdciii:1603:16:454:3:31443>
@@ -3982,7 +3982,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31443" ;
     skos:prefLabel "Likangala Central Ward"@eng-Latn ;
-    wdata:q7200235 "MW31443" ;
+    wdata:Q7200235 "MW31443" ;
 .
 
 <urn:mdciii:1603:16:454:3:31444>
@@ -3992,7 +3992,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31444" ;
     skos:prefLabel "Likangala South Ward"@eng-Latn ;
-    wdata:q7200235 "MW31444" ;
+    wdata:Q7200235 "MW31444" ;
 .
 
 <urn:mdciii:1603:16:454:3:31531>
@@ -4002,7 +4002,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31531" ;
     skos:prefLabel "Michiru Ward"@eng-Latn ;
-    wdata:q7200235 "MW31531" ;
+    wdata:Q7200235 "MW31531" ;
 .
 
 <urn:mdciii:1603:16:454:3:31532>
@@ -4012,7 +4012,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31532" ;
     skos:prefLabel "South Lunzu Ward"@eng-Latn ;
-    wdata:q7200235 "MW31532" ;
+    wdata:Q7200235 "MW31532" ;
 .
 
 <urn:mdciii:1603:16:454:3:31533>
@@ -4022,7 +4022,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31533" ;
     skos:prefLabel "Mapanga Ward"@eng-Latn ;
-    wdata:q7200235 "MW31533" ;
+    wdata:Q7200235 "MW31533" ;
 .
 
 <urn:mdciii:1603:16:454:3:31534>
@@ -4032,7 +4032,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31534" ;
     skos:prefLabel "Nkolokoti Ward"@eng-Latn ;
-    wdata:q7200235 "MW31534" ;
+    wdata:Q7200235 "MW31534" ;
 .
 
 <urn:mdciii:1603:16:454:3:31535>
@@ -4042,7 +4042,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31535" ;
     skos:prefLabel "Ndirande North Ward"@eng-Latn ;
-    wdata:q7200235 "MW31535" ;
+    wdata:Q7200235 "MW31535" ;
 .
 
 <urn:mdciii:1603:16:454:3:31536>
@@ -4052,7 +4052,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31536" ;
     skos:prefLabel "Ndirande South Ward"@eng-Latn ;
-    wdata:q7200235 "MW31536" ;
+    wdata:Q7200235 "MW31536" ;
 .
 
 <urn:mdciii:1603:16:454:3:31537>
@@ -4062,7 +4062,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31537" ;
     skos:prefLabel "Ndirande West Ward"@eng-Latn ;
-    wdata:q7200235 "MW31537" ;
+    wdata:Q7200235 "MW31537" ;
 .
 
 <urn:mdciii:1603:16:454:3:31538>
@@ -4072,7 +4072,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31538" ;
     skos:prefLabel "Nyambadwe Ward"@eng-Latn ;
-    wdata:q7200235 "MW31538" ;
+    wdata:Q7200235 "MW31538" ;
 .
 
 <urn:mdciii:1603:16:454:3:31539>
@@ -4082,7 +4082,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31539" ;
     skos:prefLabel "Likhubula Ward"@eng-Latn ;
-    wdata:q7200235 "MW31539" ;
+    wdata:Q7200235 "MW31539" ;
 .
 
 <urn:mdciii:1603:16:454:3:31540>
@@ -4092,7 +4092,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31540" ;
     skos:prefLabel "Chilomoni Ward"@eng-Latn ;
-    wdata:q7200235 "MW31540" ;
+    wdata:Q7200235 "MW31540" ;
 .
 
 <urn:mdciii:1603:16:454:3:31541>
@@ -4102,7 +4102,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31541" ;
     skos:prefLabel "Blantyre West Ward"@eng-Latn ;
-    wdata:q7200235 "MW31541" ;
+    wdata:Q7200235 "MW31541" ;
 .
 
 <urn:mdciii:1603:16:454:3:31542>
@@ -4112,7 +4112,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31542" ;
     skos:prefLabel "Blantyre Central Ward"@eng-Latn ;
-    wdata:q7200235 "MW31542" ;
+    wdata:Q7200235 "MW31542" ;
 .
 
 <urn:mdciii:1603:16:454:3:31543>
@@ -4122,7 +4122,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31543" ;
     skos:prefLabel "Blantyre East Ward"@eng-Latn ;
-    wdata:q7200235 "MW31543" ;
+    wdata:Q7200235 "MW31543" ;
 .
 
 <urn:mdciii:1603:16:454:3:31544>
@@ -4132,7 +4132,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31544" ;
     skos:prefLabel "Chichiri Ward"@eng-Latn ;
-    wdata:q7200235 "MW31544" ;
+    wdata:Q7200235 "MW31544" ;
 .
 
 <urn:mdciii:1603:16:454:3:31545>
@@ -4142,7 +4142,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31545" ;
     skos:prefLabel "Mzedi Ward"@eng-Latn ;
-    wdata:q7200235 "MW31545" ;
+    wdata:Q7200235 "MW31545" ;
 .
 
 <urn:mdciii:1603:16:454:3:31546>
@@ -4152,7 +4152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31546" ;
     skos:prefLabel "Bangwe Ward"@eng-Latn ;
-    wdata:q7200235 "MW31546" ;
+    wdata:Q7200235 "MW31546" ;
 .
 
 <urn:mdciii:1603:16:454:3:31547>
@@ -4162,7 +4162,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31547" ;
     skos:prefLabel "Namiyango Ward"@eng-Latn ;
-    wdata:q7200235 "MW31547" ;
+    wdata:Q7200235 "MW31547" ;
 .
 
 <urn:mdciii:1603:16:454:3:31548>
@@ -4172,7 +4172,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31548" ;
     skos:prefLabel "Limbe East Ward"@eng-Latn ;
-    wdata:q7200235 "MW31548" ;
+    wdata:Q7200235 "MW31548" ;
 .
 
 <urn:mdciii:1603:16:454:3:31549>
@@ -4182,7 +4182,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31549" ;
     skos:prefLabel "Limbe Central Ward"@eng-Latn ;
-    wdata:q7200235 "MW31549" ;
+    wdata:Q7200235 "MW31549" ;
 .
 
 <urn:mdciii:1603:16:454:3:31550>
@@ -4192,7 +4192,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31550" ;
     skos:prefLabel "Limbe West Ward"@eng-Latn ;
-    wdata:q7200235 "MW31550" ;
+    wdata:Q7200235 "MW31550" ;
 .
 
 <urn:mdciii:1603:16:454:3:31551>
@@ -4202,7 +4202,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31551" ;
     skos:prefLabel "Soche East Ward"@eng-Latn ;
-    wdata:q7200235 "MW31551" ;
+    wdata:Q7200235 "MW31551" ;
 .
 
 <urn:mdciii:1603:16:454:3:31552>
@@ -4212,7 +4212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31552" ;
     skos:prefLabel "Soche West Ward"@eng-Latn ;
-    wdata:q7200235 "MW31552" ;
+    wdata:Q7200235 "MW31552" ;
 .
 
 <urn:mdciii:1603:16:454:3:31553>
@@ -4222,7 +4222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31553" ;
     skos:prefLabel "Nancholi Ward"@eng-Latn ;
-    wdata:q7200235 "MW31553" ;
+    wdata:Q7200235 "MW31553" ;
 .
 
 <urn:mdciii:1603:16:454:3:31554>
@@ -4234,7 +4234,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Misesa"@eng-Latn ,
         "Misesa Ward"@eng-Latn ;
-    wdata:q7200235 "MW31554" ;
+    wdata:Q7200235 "MW31554" ;
 .
 
 <urn:mdciii:1603:16:454:3:31555>
@@ -4244,7 +4244,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31555" ;
     skos:prefLabel "Chigumula Ward"@eng-Latn ;
-    wdata:q7200235 "MW31555" ;
+    wdata:Q7200235 "MW31555" ;
 .
 
 <urn:mdciii:1603:16:454:3:31556>
@@ -4254,6 +4254,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:454:3:31556" ;
     skos:prefLabel "Msamba Ward"@eng-Latn ;
-    wdata:q7200235 "MW31556" ;
+    wdata:Q7200235 "MW31556" ;
 .
 
